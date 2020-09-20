@@ -155,12 +155,12 @@ sections:
     background_image_repeat: null
     has_border: false
     background_color: none
-    grid_gap_vert: medium
+    grid_gap_vert: large
     background_image_size: null
     subtitle: ""
     title: Hear from our migrant workers
     padding_bottom: null
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     type: grid_section
     background_image_position: null
   - actions_width: fourty

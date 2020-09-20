@@ -103,8 +103,26 @@
       }
     ],
     "logo": "/images/header-logo.png",
-    "tertiary_nav_title": "Legal",
+    "tertiary_nav_title": "Menu",
     "tertiary_nav_links": [
+      {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
+        "new_window": false,
+        "type": "action",
+        "label": "About",
+        "url": "/about"
+      },
+      {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
+        "new_window": false,
+        "type": "action",
+        "label": "Contact",
+        "url": "/contact"
+      },
       {
         "type": "action",
         "label": "Terms & Conditions",

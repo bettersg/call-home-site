@@ -2,27 +2,7 @@
   "mode": "light",
   "layout": "boxed",
   "header": {
-    "primary_nav_links": [
-      {
-        "type": "action",
-        "label": "For donors",
-        "url": "/donors",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "FAQs",
-        "url": "/faqs",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Donate",
-        "url": "/donate",
-        "style": "primary",
-        "new_window": true
-      }
-    ],
+    "primary_nav_links": [],
     "has_primary_nav": false,
     "anncmnt_has_close": true,
     "anncmnt_is_home_only": true,
@@ -57,7 +37,7 @@
         "type": "action",
         "label": "Donate",
         "icon": "arrow-right",
-        "url": "https://rayofhope.sg/"
+        "url": "https://give.asia/"
       }
     ],
     "has_secondary_nav": true,

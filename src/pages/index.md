@@ -21,7 +21,7 @@ sections:
     image: /images/undraw_hooked_c757.svg
     actions:
       - type: action
-        label: " নিবন্ধন করুন Sign Up"
+        label: এপ খোল Open app
         url: https://app.callhome.sg
         style: primary
         has_icon: true
@@ -64,6 +64,25 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+  - actions_width: fourty
+    align: left
+    padding_top: large
+    actions_position: right
+    background_color: primary
+    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন Call your loved ones for free"
+    content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
+      ব্যবহার করে কল করুন No need IDD cards, call using wifi/data to basic
+      phones back home
+    padding_bottom: large
+    type: cta_section
+    actions:
+      - type: action
+        label: এপ খোল Open app
+        url: https://app.callhome.sg
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        new_window: true
   - align: null
     padding_top: medium
     grid_items:
@@ -199,24 +218,5 @@ sections:
     grid_gap_horiz: medium
     type: grid_section
     background_image_position: null
-  - actions_width: fourty
-    align: left
-    padding_top: large
-    actions_position: right
-    background_color: primary
-    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন Call your loved ones for free"
-    content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
-      ব্যবহার করে কল করুন No need IDD cards, call using wifi/data to basic
-      phones back home
-    padding_bottom: large
-    type: cta_section
-    actions:
-      - type: action
-        label: " নিবন্ধন করুন Sign Up"
-        url: https://app.callhome.sg
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        new_window: true
 template: advanced
 ---

@@ -158,8 +158,8 @@ sections:
     background_color: none
     grid_gap_vert: large
     background_image_size: null
-    subtitle: ""
-    title: Hear from our migrant workers
+    subtitle: We ran a closed pilot with 60 migrant workers in the initial 2 months.
+    title: Here’s what they have to say
     padding_bottom: null
     grid_gap_horiz: large
     type: grid_section

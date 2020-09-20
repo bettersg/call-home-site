@@ -125,7 +125,7 @@ sections:
           হ্যাঁ আমি পছন্দ করি .. আমি সর্বদা আমার মাকে / আব্বাকে আব্বু ডাকি my আমি সত্যিই খুব খুশি।
 
 
-          \- Alam, from Bangladesh. 19 years in Singapore
+          \- **Alam**, from Bangladesh. 19 years in Singapore
         type: grid_item
         image: /images/alam.png
         title_align: center
@@ -186,84 +186,30 @@ sections:
         url: https://rayofhope.sg/
         icon: arrow-right
     background_image_position: center center
-  - align: center
-    padding_top: null
-    grid_items:
-      - image_align: left
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
-        image_has_padding: false
-        image_position: top
-        type: grid_item
-        image: /images/cmsc.png
-        title_align: left
-        content_align: left
-      - image_align: left
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
-        image_has_padding: false
-        image_position: top
-        type: grid_item
-        image: /images/twc2.png
-        title_align: left
-        content_align: left
-      - image_align: left
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
-        image_has_padding: false
-        image_position: top
-        type: grid_item
-        image: /images/home.png
-        title_align: left
-        content_align: left
-      - image_align: left
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
-        image_has_padding: false
-        image_position: top
-        type: grid_item
-        image: /images/majuritytrust.png
-        title_align: left
-        content_align: left
-      - image_align: left
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
-        image_has_padding: false
-        image_position: top
-        type: grid_item
-        image: /images/bettersg.png
-        title_align: left
-        content_align: left
-      - image_align: left
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
-        image_has_padding: false
-        image_position: top
-        type: grid_item
-        image: /images/twilio.png
-        title_align: left
-        content_align: left
-    enable_cards: false
-    grid_cols: three
+  - align: left
+    padding_top: medium
+    feature_padding_vert: medium
+    background_image: ""
     background_image_repeat: null
     has_border: false
     background_color: null
-    grid_gap_vert: medium
     background_image_size: null
-    subtitle: Thank you to our supporters
-    title: "Call Home works with the following migrant worker groups in Singapore to
-      help migrant workers get access to Call Home: CMSC, TWC2 and HOME. We are
-      very grateful for Majurity Trust for seed funding, and better.sg, Sweet
-      Jam Sites, and Give.asia for additional support. "
-    padding_bottom: null
-    grid_gap_horiz: medium
-    type: grid_section
+    subtitle: ""
+    title: ""
+    padding_bottom: medium
+    type: features_section
+    features:
+      - media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        title: Thank you to our supporters
+        subtitle: ""
+        content: "Call Home works with the following migrant worker groups in Singapore
+          to help migrant workers get access to Call Home: CMSC, TWC2 and HOME.
+          We are very grateful for Majurity Trust for seed funding, and
+          better.sg, Sweet Jam Sites, and Give.asia for additional support."
+        image: /images/all-supporters.png
     background_image_position: null
 template: advanced
 ---

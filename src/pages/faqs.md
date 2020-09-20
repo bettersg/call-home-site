@@ -10,33 +10,44 @@ sections:
   - padding_top: medium
     grid_items:
       - type: grid_item
-        title: Lorem ipsum dolor sit amet consectetur?
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        title: Why donate to Call Home? Why not sponsor calling cards directly?
+        content: >-
+          Existing solutions do not work well for every migrant worker. For many
+          workers, their families back home do not have stable internet access
+          or cannot afford data plans that make WhatsApp or Viber calls
+          possible. Workers often spend $30-40 each month on calling cards
+          alone, not including data plans they purchase to access other
+          services. The high cost of calls forces them to limit the amount of
+          time they speak to their loved ones for.\
+
+          \
+
+          Due to the COVID-19 situation, many migrant workers have yet to return to work, and are not receiving any income. Purchasing calling cards becomes a luxury they cannot afford. For the lucky few that have returned to work, going out to purchase calling cards from stores are out of the question, due to tight movement restrictions. As a result, in times where migrant workers need to lean on their closest family the most, they aren't able to do so. Call Home aims to fill that gap.
       - type: grid_item
-        title: Sagittis vitae et leo duis ut diam?
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        title: How does Call Home work? How much do migrant workers save?
+        content: Call Home is powered by Twilio, which allows 3G to landline calls.
+          We’ve negotiated a discounted rate from Twilio, which means that the
+          overall calling costs are up to 30% lower than traditional IDD calls.
       - type: grid_item
-        title: Viverra nam libero justo laoreet sit?
-        content: In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        title: Which countries does Call Home support?
+        content: Currently, we support migrant workers with a valid Singapore number.
+          Bangladesh, where the majority of our migrant workers’ families
+          reside, is currently the only country which calls can be made to. We
+          are looking to support more countries if demand increases.
       - type: grid_item
-        title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: Blandit aliquam etiam erat velit. In massa tempor nec feugiat. Volutpat
-          maecenas volutpat blandit aliquam. Sem integer vitae justo eget magna
-          fermentum iaculis. Amet est placerat in egestas erat imperdiet sed
-          euismod nisi. Facilisi morbi tempus iaculis urna.
+        title: What will the funds be used for?
+        content: 98.5% of donations will go to fund the calling costs for migrant
+          workers. The remaining 1.5% goes to Give.asia, for development costs
+          to keep Call Home running.
       - type: grid_item
-        title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        title: How will Call Home sustain itself for the long-term?
+        content: Call Home started as a passion project between four friends who wanted
+          to do something for our migrant worker brothers during the COVID-19
+          period. We hope to build a community of recurring givers who will
+          continue to support our migrant workers on Call Home. Give.asia will
+          also provide development support to maintain the service and build new
+          features to help migrant workers stay connected to their loved ones
+          back home.
     enable_cards: true
     grid_cols: two
     has_border: false

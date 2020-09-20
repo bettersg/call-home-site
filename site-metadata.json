@@ -83,6 +83,15 @@
         "type": "action",
         "label": "Meet the team",
         "url": "/team"
+      },
+      {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
+        "new_window": false,
+        "type": "action",
+        "label": "Contact",
+        "url": "/contact"
       }
     ],
     "has_primary_nav": true,

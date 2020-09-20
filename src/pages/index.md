@@ -59,7 +59,7 @@ sections:
         actions: []
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: null
   - align: null
     padding_top: medium
     grid_items:

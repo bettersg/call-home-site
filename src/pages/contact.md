@@ -8,7 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - actions_width: fourty
+  - actions_width: sixty
     align: left
     padding_top: medium
     actions_position: right

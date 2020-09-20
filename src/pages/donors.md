@@ -86,10 +86,10 @@ sections:
   - align: center
     padding_top: medium
     grid_items:
-      - image_align: center
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
+      - image_align: null
+        image_width: null
+        actions_align: null
+        actions_width: null
         image_has_padding: false
         image_position: top
         content: >-
@@ -103,11 +103,11 @@ sections:
           কল হোম আমাকে পরিবারের সাথে যোগাযোগ করতে অনেক সহায়তা করেছে। যদিও আমার পরিবার ইন্টারনেট ব্যবহার করে না, আমরা অ্যাপ্লিকেশনটি ব্যবহার করে খুব সহজেই কথা বলতে পারি এবং আমরা আধ ঘন্টারও বেশি সময় ধরে কথা বলতে পারি can এটি আমাদের জন্য সত্যই দুর্দান্ত
 
 
-          \- Abdul, from Bangladesh. 13 years in Singapore
+          \- **Abdul**, from Bangladesh. 13 years in Singapore
         type: grid_item
         image: /images/abdul.png
-        title_align: left
-        content_align: left
+        title_align: center
+        content_align: null
       - image_align: center
         image_width: fifty
         actions_align: left
@@ -157,10 +157,8 @@ sections:
     background_color: none
     grid_gap_vert: medium
     background_image_size: cover
-    subtitle: "Hear from our migrant workers "
-    title: We ran a closed pilot with 60 migrant workers in the past 2 months.
-      Here’s what they have to say. Help more of them call their loved ones back
-      home.
+    subtitle: ""
+    title: Hear from our migrant workers
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section

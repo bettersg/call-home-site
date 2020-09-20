@@ -63,7 +63,7 @@ sections:
         actions: []
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - align: null
     padding_top: medium
     grid_items:
@@ -191,7 +191,7 @@ sections:
     grid_cols: two
     background_image_repeat: null
     has_border: false
-    background_color: none
+    background_color: secondary
     grid_gap_vert: medium
     background_image_size: null
     title: Frequently Asked Questions

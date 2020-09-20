@@ -54,7 +54,7 @@ sections:
 
           COVID restrictions mean many cannot return to work or leave their dorms. Salary cuts make these cards too expensive, while movement restrictions make purchasing physical cards impossible.
         image: /images/costsincurred.png
-      - media_position: top
+      - media_position: left
         media_width: fifty
         align: right
         type: feature
@@ -64,7 +64,7 @@ sections:
           virtually for free. Often, that one call is all they need to keep
           going for another day.
         image: /images/undraw_social_life_4np1.svg
-      - media_position: top
+      - media_position: right
         media_width: fifty
         align: left
         type: feature
@@ -74,7 +74,7 @@ sections:
           donating to Call Home is up to 30% cheaper than simply purchasing
           international calling cards, making your donation stretch further.
         image: /images/undraw_savings_re_eq4w.svg
-      - media_position: top
+      - media_position: left
         media_width: fifty
         align: right
         type: feature
@@ -86,7 +86,7 @@ sections:
   - align: center
     padding_top: medium
     grid_items:
-      - image_align: left
+      - image_align: center
         image_width: fifty
         actions_align: left
         actions_width: auto
@@ -100,16 +100,15 @@ sections:
 
           \
 
-          কল হোম আমাকে পরিবারের সাথে যোগাযোগ করতে অনেক সহায়তা করেছে। যদিও আমার পরিবার ইন্টারনেট ব্যবহার করে না, আমরা অ্যাপ্লিকেশনটি ব্যবহার করে খুব সহজেই কথা বলতে পারি এবং আমরা আধ ঘন্টারও বেশি সময় ধরে কথা বলতে পারি can এটি আমাদের জন্য সত্যই দুর্দান্ত\
+          কল হোম আমাকে পরিবারের সাথে যোগাযোগ করতে অনেক সহায়তা করেছে। যদিও আমার পরিবার ইন্টারনেট ব্যবহার করে না, আমরা অ্যাপ্লিকেশনটি ব্যবহার করে খুব সহজেই কথা বলতে পারি এবং আমরা আধ ঘন্টারও বেশি সময় ধরে কথা বলতে পারি can এটি আমাদের জন্য সত্যই দুর্দান্ত
 
-          \
 
-          - Abdul, from Bangladesh. 13 years in Singapore
+          \- Abdul, from Bangladesh. 13 years in Singapore
         type: grid_item
         image: /images/abdul.png
         title_align: left
         content_align: left
-      - image_align: left
+      - image_align: center
         image_width: fifty
         actions_align: left
         actions_width: auto
@@ -123,32 +122,30 @@ sections:
 
           \
 
-          হ্যাঁ আমি পছন্দ করি .. আমি সর্বদা আমার মাকে / আব্বাকে আব্বু ডাকি my আমি সত্যিই খুব খুশি।\
+          হ্যাঁ আমি পছন্দ করি .. আমি সর্বদা আমার মাকে / আব্বাকে আব্বু ডাকি my আমি সত্যিই খুব খুশি।
 
-          \
 
-          - Alam, from Bangladesh. 19 years in Singapore
+          \- Alam, from Bangladesh. 19 years in Singapore
         type: grid_item
         image: /images/alam.png
         title_align: left
         content_align: left
-      - image_align: left
+      - image_align: center
         image_width: fifty
         actions_align: left
         actions_width: auto
         image_has_padding: false
         image_position: top
         content: >-
-          This app is very useful for us. With this app we can talk to our
-          family for free. মা তোমাকে দেখতে খুপ ইচ্ছা করছে. I love you Ma.\
+          "This app is very useful for us. With this app we can talk to our
+          family for free. মা তোমাকে দেখতে খুপ ইচ্ছা করছে. I love you Ma."\
 
           \
 
-          এই অ্যাপটি আমাদের জন্য খুব দরকারী। এই অ্যাপ্লিকেশনটি দিয়ে আমরা আমাদের পরিবারের সাথে বিনামূল্যে কথা বলতে পারি।\
+          এই অ্যাপটি আমাদের জন্য খুব দরকারী। এই অ্যাপ্লিকেশনটি দিয়ে আমরা আমাদের পরিবারের সাথে বিনামূল্যে কথা বলতে পারি।
 
-          \
 
-          - Robiul, from Bangladesh. 6 years in Singapore.
+          \- Robiul, from Bangladesh. 6 years in Singapore.
         type: grid_item
         image: /images/robiul.png
         title_align: left
@@ -160,10 +157,10 @@ sections:
     background_color: none
     grid_gap_vert: medium
     background_image_size: cover
-    subtitle: We ran a closed pilot with 60 migrant workers in the past 2 months.
+    subtitle: "Hear from our migrant workers "
+    title: We ran a closed pilot with 60 migrant workers in the past 2 months.
       Here’s what they have to say. Help more of them call their loved ones back
       home.
-    title: Hear from our migrant workers
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section
@@ -174,7 +171,7 @@ sections:
     actions_position: right
     background_image_repeat: no-repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     title: Give the comfort of hearing a loved one’s voice
     content: Just $25 gives 1 migrant worker a month of high-quality talk-time with
@@ -261,11 +258,11 @@ sections:
     background_color: none
     grid_gap_vert: small
     background_image_size: cover
-    subtitle: "Call Home works with the following migrant worker groups in Singapore
-      to help migrant workers get access to Call Home: CMSC, TWC2 and HOME. We
-      are very grateful for Majurity Trust for seed funding, and better.sg,
-      Sweet Jam Sites, and Give.asia for additional support. "
-    title: Thank you to our supporters
+    subtitle: Thank you to our supporters
+    title: "Call Home works with the following migrant worker groups in Singapore to
+      help migrant workers get access to Call Home: CMSC, TWC2 and HOME. We are
+      very grateful for Majurity Trust for seed funding, and better.sg, Sweet
+      Jam Sites, and Give.asia for additional support. "
     padding_bottom: medium
     grid_gap_horiz: small
     type: grid_section

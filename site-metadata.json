@@ -180,7 +180,7 @@
     "has_tertiary_nav": true,
     "primary_nav_title": "About"
   },
-  "palette": "red",
+  "palette": "blue",
   "description": "Call Home is an app for migrant workers to call their families back home from 3G to landline calls. Built with love from Singapore. ",
   "base_font": "sans-serif"
 }

@@ -31,10 +31,10 @@ sections:
   - align: center
     padding_top: medium
     feature_padding_vert: medium
-    background_image_repeat: no-repeat
+    background_image_repeat: null
     has_border: false
-    background_color: none
-    background_image_size: cover
+    background_color: secondary
+    background_image_size: null
     padding_bottom: medium
     type: features_section
     features:
@@ -82,7 +82,7 @@ sections:
         content: Just $25 a month gives 1 worker 400 minutes of high-quality talk-time
           with their parents, spouse, and children.
         image: /images/undraw_order_confirmed_aaw7.svg
-    background_image_position: center center
+    background_image_position: null
   - align: center
     padding_top: null
     grid_items:
@@ -154,13 +154,13 @@ sections:
     grid_cols: three
     background_image_repeat: null
     has_border: false
-    background_color: secondary
-    grid_gap_vert: null
+    background_color: none
+    grid_gap_vert: medium
     background_image_size: null
     subtitle: ""
     title: Hear from our migrant workers
     padding_bottom: null
-    grid_gap_horiz: null
+    grid_gap_horiz: medium
     type: grid_section
     background_image_position: null
   - actions_width: fourty
@@ -192,7 +192,7 @@ sections:
     background_image: ""
     background_image_repeat: null
     has_border: false
-    background_color: null
+    background_color: secondary
     background_image_size: null
     subtitle: ""
     title: ""

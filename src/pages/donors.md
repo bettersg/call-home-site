@@ -26,7 +26,7 @@ sections:
         new_window: true
         type: action
         label: Donate now
-        url: https://give.asia/
+        url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
   - align: center
@@ -184,7 +184,7 @@ sections:
         new_window: true
         type: action
         label: Donate now
-        url: https://give.asia/
+        url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
   - align: left

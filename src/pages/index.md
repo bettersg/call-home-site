@@ -6,8 +6,11 @@ sections:
   - media_position: right
     align: left
     padding_top: large
+    background_image: /images/hero_background.svg
     media_width: fifty
+    background_image_repeat: no-repeat
     background_color: none
+    background_image_size: cover
     subtitle: Call your loved ones for free
     title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন "
     content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
@@ -25,6 +28,7 @@ sections:
         icon: arrow-right
         icon_position: right
         new_window: true
+    background_image_position: center center
   - type: features_section
     title: ""
     subtitle: ""

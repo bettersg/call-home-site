@@ -8,15 +8,20 @@ sections:
     padding_top: large
     media_width: fifty
     background_color: none
-    subtitle: ""
-    title: Call your loved ones <span>for free</span>
-    content: No need IDD cards, call using wifi/data to basic phones back home.
+    subtitle: Call your loved ones <span>for free</span>
+    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন "
+    content: >-
+      আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা ব্যবহার
+      করে কল করুন 
+
+
+      No need IDD cards, call using wifi/data to basic phones back home.
     padding_bottom: large
     type: hero_section
     image: /images/undraw_hooked_c757.svg
     actions:
       - type: action
-        label: Sign Up
+        label: " নিবন্ধন করুন Sign Up"
         url: https://app.callhome.sg
         style: primary
         has_icon: true
@@ -92,6 +97,10 @@ sections:
         subtitle: "Do I need internet access to make calls on Call Home? "
         title: কল হোমে কল করার জন্য আমার কি ইন্টারনেট অ্যাক্সেস দরকার?
         content: |-
+          - - -
+
+
+
           হ্যাঁ, হয় ডেটা বা ওয়াইফাই এর মাধ্যমে।
 
           Yes, either through data or wifi.
@@ -107,6 +116,11 @@ sections:
         subtitle: "Do my loved ones back home need to have internet access? "
         title: বাড়িতে ফিরে আমার প্রিয়জনদের কি ইন্টারনেট অ্যাক্সেস থাকা দরকার?
         content: >-
+          - - -
+
+
+
+
           না। আপনি সাধারণ ফোনে যেমন সরাসরি তাদের ফোনে কল করবেন।
 
 
@@ -123,8 +137,12 @@ sections:
         subtitle: Do I or my loved one need to pay for this service?
         title: আমার প্রিয়জনটির কি আমার এই পরিষেবার জন্য অর্থ প্রদান করা দরকার?
         content: >-
-          না। পরিষেবা উভয় পক্ষের জন্য বিনামূল্যে।\[Need to include translation
-          for data lines]
+          - - -
+
+
+
+
+          না। পরিষেবা উভয় পক্ষের জন্য বিনামূল্যে।\[Need to include translation for data lines]
 
 
           No. The service is free for both sides. You do use data for the service though. 1 hour of call time should use up around 1.5MB of data.
@@ -140,6 +158,10 @@ sections:
         subtitle: "Are there any call limits? "
         title: কোন কল সীমা আছে?
         content: |-
+          - - -
+
+
+
           না। আপনি যতক্ষণ ইচ্ছা চ্যাট করতে পারেন।
 
           No. You can chat for as long as you wish.
@@ -155,6 +177,10 @@ sections:
         subtitle: What caller ID will my loved one see? 
         title:  আমার প্রিয়জন কোন কলার আইডি দেখতে পাবে?
         content: |-
+          - - -
+
+
+
           তারা জেনেরিক সিঙ্গাপুরের মোবাইল নম্বরটি +65 দিয়ে শুরু করবে
 
           They will see a generic Singaporean mobile number starting with +65.
@@ -170,9 +196,12 @@ sections:
         subtitle: I can’t make any calls. What do I do?
         title: " আমি কোনও কল করতে পারি না আমি কি করব?"
         content: >-
-          কল করার জন্য আপনার কাছে পর্যাপ্ত ডেটা বা শক্তিশালী ওয়াইফাই সংযোগ
-          রয়েছে তা নিশ্চিত করুন। আপনি যদি মি ব্রোভার ব্যবহার করছেন তবে ক্রোম
-          ব্রাউজারে স্যুইচ করুন এবং আবার চেষ্টা করুন।
+          - - -
+
+
+
+
+          কল করার জন্য আপনার কাছে পর্যাপ্ত ডেটা বা শক্তিশালী ওয়াইফাই সংযোগ রয়েছে তা নিশ্চিত করুন। আপনি যদি মি ব্রোভার ব্যবহার করছেন তবে ক্রোম ব্রাউজারে স্যুইচ করুন এবং আবার চেষ্টা করুন।
 
 
           Ensure you have enough data or strong wifi connection to make a call. If you are using Mi brower, switch over to Chrome browser and try again.
@@ -196,13 +225,18 @@ sections:
     padding_top: large
     actions_position: right
     background_color: primary
-    title: Call your loved ones for free
-    content: No need IDD cards, call using wifi/data to basic phones back home
+    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন <br/>Call your loved ones for free"
+    content: >-
+      আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা ব্যবহার
+      করে কল করুন 
+
+
+      No need IDD cards, call using wifi/data to basic phones back home
     padding_bottom: large
     type: cta_section
     actions:
       - type: action
-        label: Sign Up
+        label: " নিবন্ধন করুন Sign Up"
         url: https://app.callhome.sg
         style: primary
         has_icon: true

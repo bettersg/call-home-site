@@ -68,32 +68,7 @@
   "style": "minimal",
   "title": "Call Home",
   "footer": {
-    "primary_nav_links": [
-      {
-        "type": "action",
-        "label": "About",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "style": "link",
-        "has_icon": false,
-        "icon_position": null,
-        "new_window": false,
-        "type": "action",
-        "label": "Meet the team",
-        "url": "/team"
-      },
-      {
-        "style": "link",
-        "has_icon": false,
-        "icon_position": null,
-        "new_window": false,
-        "type": "action",
-        "label": "Contact",
-        "url": "/contact"
-      }
-    ],
+    "primary_nav_links": [],
     "has_primary_nav": true,
     "social_links": [
       {
@@ -143,34 +118,15 @@
         "style": "link"
       }
     ],
-    "secondary_nav_title": "Blog",
-    "secondary_nav_links": [
-      {
-        "type": "action",
-        "label": "News",
-        "url": "/blog/category/news",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "General",
-        "url": "/blog/category/general",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Tutorials",
-        "url": "/blog/category/tutorials",
-        "style": "link"
-      }
-    ],
+    "secondary_nav_title": "",
+    "secondary_nav_links": [],
     "has_social": true,
-    "has_secondary_nav": false,
+    "has_secondary_nav": true,
     "content": "&copy; Call Home. All rights reserved.",
     "links": [],
     "type": "footer",
     "has_tertiary_nav": true,
-    "primary_nav_title": "Menu"
+    "primary_nav_title": ""
   },
   "palette": "blue",
   "description": "Call Home is an app for migrant workers to call their families back home from 3G to landline calls. Built with love from Singapore. ",

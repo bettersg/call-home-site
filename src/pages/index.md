@@ -7,13 +7,13 @@ sections:
     align: left
     padding_top: large
     media_width: fifty
-    background_color: primary
+    background_color: none
     subtitle: ""
     title: Call your loved ones <span>for free</span>
     content: No need IDD cards, call using wifi/data to basic phones back home.
     padding_bottom: large
     type: hero_section
-    image: images/classic/hero.png
+    image: /images/undraw_hooked_c757.svg
     actions:
       - type: action
         label: Sign Up

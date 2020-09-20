@@ -8,14 +8,11 @@ sections:
     padding_top: large
     media_width: fifty
     background_color: none
-    subtitle: Call your loved ones <span>for free</span>
+    subtitle: Call your loved ones for free
     title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন "
-    content: >-
-      আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা ব্যবহার
-      করে কল করুন 
-
-
-      No need IDD cards, call using wifi/data to basic phones back home.
+    content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
+      ব্যবহার করে কল করুন No need IDD cards, call using wifi/data to basic
+      phones back home.
     padding_bottom: large
     type: hero_section
     image: /images/undraw_hooked_c757.svg
@@ -203,13 +200,10 @@ sections:
     padding_top: large
     actions_position: right
     background_color: primary
-    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন <br/>Call your loved ones for free"
-    content: >-
-      আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা ব্যবহার
-      করে কল করুন 
-
-
-      No need IDD cards, call using wifi/data to basic phones back home
+    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন Call your loved ones for free"
+    content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
+      ব্যবহার করে কল করুন No need IDD cards, call using wifi/data to basic
+      phones back home
     padding_bottom: large
     type: cta_section
     actions:

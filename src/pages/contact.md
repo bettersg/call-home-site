@@ -26,7 +26,7 @@ sections:
         icon_position: left
         new_window: true
         type: action
-        label: " ফেসবুক পেজে যান Go to Facebook page"
+        label: যাও Facebook page
         url: https://www.facebook.com/
         icon: facebook
     background_image_position: null

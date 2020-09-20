@@ -5,11 +5,12 @@ sections:
   - media_position: right
     align: left
     padding_top: medium
+    background_image: /images/hero_background.svg
     media_width: fifty
     background_image_repeat: no-repeat
     has_border: false
     background_color: none
-    background_image_size: cover
+    background_image_size: auto
     title: Imagine not being able to talk to the people you love
     content: Covid-19 has been an isolating and anxious time for migrant workers in
       Singapore. Speaking with their families is one of their main comforts.

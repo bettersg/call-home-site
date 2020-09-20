@@ -61,11 +61,11 @@ sections:
   - actions_width: fourty
     align: left
     padding_top: medium
-    actions_position: bottom
-    background_image_repeat: no-repeat
+    actions_position: right
+    background_image_repeat: null
     has_border: false
     background_color: primary
-    background_image_size: cover
+    background_image_size: null
     title: Give the comfort of hearing a loved one’s voice
     content: Just $25 gives 1 migrant worker a month of high-quality talk-time with
       their parents, spouse, and children.
@@ -79,6 +79,6 @@ sections:
         type: action
         label: Donate now
         url: https://rayofhope.sg/
-    background_image_position: center center
+    background_image_position: null
 template: advanced
 ---

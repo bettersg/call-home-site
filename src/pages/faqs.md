@@ -73,12 +73,13 @@ sections:
     type: cta_section
     actions:
       - style: primary
-        has_icon: false
+        has_icon: true
         icon_position: right
         new_window: true
         type: action
         label: Donate now
-        url: https://rayofhope.sg/
+        url: https://give.asia/call-home-sg
+        icon: arrow-right
     background_image_position: null
 template: advanced
 ---

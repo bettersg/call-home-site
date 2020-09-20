@@ -44,7 +44,7 @@ sections:
         image: /images/undraw_contact_us_15o2.svg
         actions: []
       - type: feature
-        title: Call back to Bangladesh for free
+        title: Call back home to Bangladesh for free
         content: No terms and conditions attached!
         actions: []
         image: /images/undraw_order_confirmed_aaw7.svg

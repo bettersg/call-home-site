@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    background_color: primary
+    background_color: secondary
   - padding_top: medium
     grid_items:
       - type: grid_item
@@ -64,7 +64,7 @@ sections:
     actions_position: bottom
     background_image_repeat: no-repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     title: Give the comfort of hearing a loved one’s voice
     content: Just $25 gives 1 migrant worker a month of high-quality talk-time with

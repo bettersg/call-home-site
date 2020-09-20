@@ -29,59 +29,37 @@ sections:
         icon_position: right
         new_window: true
   - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
+    title: ""
+    subtitle: ""
     features:
-      - type: feature
-        title: The Big Title For the Feature
-        subtitle: "In fermentum odio et tortor laoreet, sed interdum augue ornare. "
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        media_position: right
+      - media_position: right
+        align: left
         media_width: fifty
+        subtitle: ""
+        title: No need IDD cards anymore
+        content: Your family members do not have data plans? Call Home lets you use wifi
+          and data to call basic phones back home, for free.
+        type: feature
+        image: /images/undraw_contact_us_15o2.svg
+        actions: []
       - type: feature
-        title: The Big Title For the Feature
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
+        title: Call back to Bangladesh for free
+        content: No terms and conditions attached!
+        actions: []
+        image: /images/undraw_order_confirmed_aaw7.svg
         media_position: left
         media_width: fifty
-      - type: feature
-        title: The Big Title For the Feature
-        subtitle: Sed sed commodo turpis, eget rutrum dui.
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        media_position: right
+        align: right
+      - media_position: right
+        align: left
         media_width: fifty
+        subtitle: ""
+        title: "Use on Chrome internet browser  "
+        content: Using a Xiaomi phone and Call Home doesn’t work? Make sure you use
+          Chrome, not the Mi browser!
+        type: feature
+        image: /images/undraw_search_engines_nn9e.svg
+        actions: []
     feature_padding_vert: large
     align: center
     background_color: secondary

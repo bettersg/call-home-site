@@ -97,6 +97,15 @@
       {
         "style": "link",
         "has_icon": false,
+        "icon_position": "right",
+        "new_window": true,
+        "type": "action",
+        "label": "Donate",
+        "url": "https://give.asia/call-home-sg"
+      },
+      {
+        "style": "link",
+        "has_icon": false,
         "icon_position": null,
         "new_window": false,
         "type": "action",
@@ -113,7 +122,8 @@
         "type": "action",
         "label": "Privacy Policy",
         "url": "/privacy-policy",
-        "style": "link"
+        "style": "link",
+        "new_window": false
       }
     ],
     "secondary_nav_title": "",

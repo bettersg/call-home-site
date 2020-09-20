@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    background_color: primary
   - padding_top: medium
     grid_items:
       - type: grid_item

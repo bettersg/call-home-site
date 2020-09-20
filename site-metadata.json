@@ -23,7 +23,7 @@
         "new_window": true
       }
     ],
-    "has_primary_nav": true,
+    "has_primary_nav": false,
     "anncmnt_has_close": true,
     "anncmnt_is_home_only": true,
     "anncmnt_id": "new-features",
@@ -32,16 +32,32 @@
     "has_anncmnt": true,
     "secondary_nav_links": [
       {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
+        "new_window": false,
         "type": "action",
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link"
+        "label": "For donors",
+        "url": "/donors"
       },
       {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
+        "new_window": false,
         "type": "action",
-        "label": "Get Started",
-        "url": "/pricing",
-        "style": "primary"
+        "label": "FAQs",
+        "url": "/faqs"
+      },
+      {
+        "style": "primary",
+        "has_icon": true,
+        "icon_position": "right",
+        "new_window": true,
+        "type": "action",
+        "label": "Donate",
+        "icon": "arrow-right",
+        "url": "https://rayofhope.sg/"
       }
     ],
     "has_secondary_nav": true,

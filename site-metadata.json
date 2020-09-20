@@ -1,6 +1,6 @@
 {
   "mode": "light",
-  "layout": "boxed",
+  "layout": "full-width",
   "header": {
     "primary_nav_links": [
       {
@@ -61,7 +61,7 @@
       }
     ],
     "has_secondary_nav": true,
-    "anncmnt_align": "left",
+    "anncmnt_align": "center",
     "title": "Call Home",
     "type": "header"
   },

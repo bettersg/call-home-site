@@ -106,7 +106,7 @@ sections:
 
           \- **Abdul**, from Bangladesh. 13 years in Singapore
         type: grid_item
-        image: /images/abdul.png
+        image: /images/abdul_profile.png
         title_align: center
         content_align: null
       - image_align: null
@@ -128,7 +128,7 @@ sections:
 
           \- **Alam**, from Bangladesh. 19 years in Singapore
         type: grid_item
-        image: /images/alam.png
+        image: /images/alam_profile.png
         title_align: center
         content_align: null
       - image_align: null
@@ -148,7 +148,7 @@ sections:
 
           \- **Robiul**, from Bangladesh. 6 years in Singapore.
         type: grid_item
-        image: /images/robiul.png
+        image: /images/robiul_profile.png
         title_align: center
         content_align: null
     enable_cards: false

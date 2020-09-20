@@ -65,7 +65,7 @@
     "title": "Call Home",
     "type": "header"
   },
-  "style": "bold",
+  "style": "minimal",
   "title": "Call Home",
   "footer": {
     "primary_nav_links": [

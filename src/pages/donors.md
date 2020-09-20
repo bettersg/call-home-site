@@ -84,7 +84,7 @@ sections:
         image: /images/undraw_order_confirmed_aaw7.svg
     background_image_position: center center
   - align: center
-    padding_top: medium
+    padding_top: null
     grid_items:
       - image_align: null
         image_width: null
@@ -108,10 +108,10 @@ sections:
         image: /images/abdul.png
         title_align: center
         content_align: null
-      - image_align: center
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
+      - image_align: null
+        image_width: null
+        actions_align: null
+        actions_width: null
         image_has_padding: false
         image_position: top
         content: >-
@@ -128,12 +128,12 @@ sections:
           \- Alam, from Bangladesh. 19 years in Singapore
         type: grid_item
         image: /images/alam.png
-        title_align: left
-        content_align: left
-      - image_align: center
-        image_width: fifty
-        actions_align: left
-        actions_width: auto
+        title_align: center
+        content_align: null
+      - image_align: null
+        image_width: null
+        actions_align: null
+        actions_width: null
         image_has_padding: false
         image_position: top
         content: >-
@@ -145,24 +145,24 @@ sections:
           এই অ্যাপটি আমাদের জন্য খুব দরকারী। এই অ্যাপ্লিকেশনটি দিয়ে আমরা আমাদের পরিবারের সাথে বিনামূল্যে কথা বলতে পারি।
 
 
-          \- Robiul, from Bangladesh. 6 years in Singapore.
+          \- **Robiul**, from Bangladesh. 6 years in Singapore.
         type: grid_item
         image: /images/robiul.png
-        title_align: left
-        content_align: left
-    enable_cards: true
+        title_align: center
+        content_align: null
+    enable_cards: false
     grid_cols: three
-    background_image_repeat: no-repeat
+    background_image_repeat: null
     has_border: false
-    background_color: none
-    grid_gap_vert: medium
-    background_image_size: cover
+    background_color: secondary
+    grid_gap_vert: null
+    background_image_size: null
     subtitle: ""
     title: Hear from our migrant workers
-    padding_bottom: medium
-    grid_gap_horiz: medium
+    padding_bottom: null
+    grid_gap_horiz: null
     type: grid_section
-    background_image_position: center center
+    background_image_position: null
   - actions_width: fourty
     align: left
     padding_top: medium
@@ -187,7 +187,7 @@ sections:
         icon: arrow-right
     background_image_position: center center
   - align: center
-    padding_top: medium
+    padding_top: null
     grid_items:
       - image_align: left
         image_width: fifty
@@ -251,19 +251,19 @@ sections:
         content_align: left
     enable_cards: false
     grid_cols: three
-    background_image_repeat: no-repeat
+    background_image_repeat: null
     has_border: false
-    background_color: none
-    grid_gap_vert: small
-    background_image_size: cover
+    background_color: null
+    grid_gap_vert: medium
+    background_image_size: null
     subtitle: Thank you to our supporters
     title: "Call Home works with the following migrant worker groups in Singapore to
       help migrant workers get access to Call Home: CMSC, TWC2 and HOME. We are
       very grateful for Majurity Trust for seed funding, and better.sg, Sweet
       Jam Sites, and Give.asia for additional support. "
-    padding_bottom: medium
-    grid_gap_horiz: small
+    padding_bottom: null
+    grid_gap_horiz: medium
     type: grid_section
-    background_image_position: center center
+    background_image_position: null
 template: advanced
 ---

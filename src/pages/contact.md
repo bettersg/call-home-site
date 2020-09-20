@@ -8,6 +8,28 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+  - actions_width: fourty
+    align: left
+    padding_top: medium
+    actions_position: bottom
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: primary
+    background_image_size: cover
+    title: " কর্মীদের জন্য For workers"
+    content: সাহায্য দরকার? আমাদের ফেসবুকে পৌঁছে দিন। Need help? Reach us at Facebook.
+    padding_bottom: medium
+    type: cta_section
+    actions:
+      - style: primary
+        has_icon: true
+        icon_position: left
+        new_window: true
+        type: action
+        label: Go to Facebook page
+        url: https://www.facebook.com/
+        icon: facebook
+    background_image_position: center center
   - form_position: right
     form_layout: inline
     padding_top: medium
@@ -15,7 +37,7 @@ sections:
     form_width: fifty
     enable_card: true
     submit_label: Send Message
-    background_color: primary
+    background_color: secondary
     form_fields:
       - type: form_field
         input_type: text
@@ -51,16 +73,10 @@ sections:
         is_required: true
     form_id: contact-form
     content: >-
-      ### For workers
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
-
-
       ### For donors
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
+      Questions about the app or the campaign? Interested in corporate sponsorships? Email us or fill in the form here.
     padding_bottom: medium
     type: form_section
     content_align: left

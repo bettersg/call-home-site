@@ -11,11 +11,11 @@ sections:
   - actions_width: fourty
     align: left
     padding_top: medium
-    actions_position: bottom
-    background_image_repeat: no-repeat
+    actions_position: right
+    background_image_repeat: null
     has_border: false
     background_color: primary
-    background_image_size: cover
+    background_image_size: null
     title: " কর্মীদের জন্য For workers"
     content: সাহায্য দরকার? আমাদের ফেসবুকে পৌঁছে দিন। Need help? Reach us at Facebook.
     padding_bottom: medium
@@ -26,10 +26,10 @@ sections:
         icon_position: left
         new_window: true
         type: action
-        label: Go to Facebook page
+        label: " ফেসবুক পেজে যান Go to Facebook page"
         url: https://www.facebook.com/
         icon: facebook
-    background_image_position: center center
+    background_image_position: null
   - form_position: right
     form_layout: inline
     padding_top: medium

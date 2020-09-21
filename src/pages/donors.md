@@ -10,7 +10,7 @@ sections:
     background_image_repeat: no-repeat
     has_border: false
     background_color: none
-    background_image_size: auto
+    background_image_size: cover
     title: Imagine not being able to talk to the people you love
     content: Covid-19 has been an isolating and anxious time for migrant workers in
       Singapore. Speaking with their families is one of their main comforts.
@@ -68,7 +68,7 @@ sections:
     features:
       - media_position: left
         media_width: fifty
-        align: right
+        align: left
         type: feature
         title: That call is sometimes all they need to keep going another day
         content: Migrant workers are here in Singapore to support their families. Call
@@ -110,7 +110,7 @@ sections:
     features:
       - media_position: left
         media_width: fifty
-        align: right
+        align: left
         type: feature
         title: Give migrant workers the comfort of hearing a loved one’s voice
         content: Just $25 a month gives 1 worker 400 minutes of high-quality talk-time

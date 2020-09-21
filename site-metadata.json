@@ -1,6 +1,6 @@
 {
   "mode": "light",
-  "layout": "boxed",
+  "layout": "full-width",
   "header": {
     "primary_nav_links": [],
     "has_primary_nav": false,
@@ -54,30 +54,10 @@
       {
         "type": "action",
         "label": "Facebook",
-        "url": "https://www.facebook.com/",
+        "url": "https://facebook.com/callhomesg",
         "style": "link",
         "has_icon": true,
         "icon": "facebook",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Instagram",
-        "url": "https://instagram.com/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "instagram",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "GitHub",
-        "url": "https://github.com/callhomesg",
-        "style": "link",
-        "has_icon": true,
-        "icon": "github",
         "icon_position": "center",
         "new_window": true
       }
@@ -111,19 +91,6 @@
         "type": "action",
         "label": "Contact",
         "url": "/contact"
-      },
-      {
-        "type": "action",
-        "label": "Terms & Conditions",
-        "url": "/terms-conditions",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Privacy Policy",
-        "url": "/privacy-policy",
-        "style": "link",
-        "new_window": false
       }
     ],
     "secondary_nav_title": "",

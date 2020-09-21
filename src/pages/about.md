@@ -3,10 +3,10 @@ title: About
 excerpt: Call Home started from 4 friends who wanted to do something for our
   migrant worker brothers during the COVID-19 period.
 sections:
-  - media_position: top
-    align: left
+  - media_position: null
+    align: center
     background_image: ""
-    media_width: sixty
+    media_width: null
     background_image_repeat: null
     background_color: null
     background_image_size: null
@@ -14,7 +14,23 @@ sections:
     subtitle: Call Home started from 4 friends who wanted to do something for our
       migrant worker brothers during the COVID-19 period.
     title: About us
+    content: ""
+    type: hero_section
+    image: ""
+    background_image_position: null
+  - media_position: null
+    align: null
+    padding_top: medium
+    media_width: null
+    background_image_repeat: null
+    has_border: false
+    background_color: none
+    background_image_size: null
     content: >-
+      ![Picture of the team](/images/team.png "The 4 of us meeting for the first
+      time in-person in Jul 2020")
+
+
       ### Our story
 
 
@@ -42,8 +58,8 @@ sections:
 
 
       💜 better.sg and give.asia for the invaluable advice and media opportunities!
+    padding_bottom: medium
     type: hero_section
-    image: /images/team.png
     background_image_position: null
 template: advanced
 ---

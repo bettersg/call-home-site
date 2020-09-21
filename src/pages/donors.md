@@ -55,34 +55,6 @@ sections:
 
           COVID restrictions mean many cannot return to work or leave their dorms. Salary cuts make these cards too expensive, while movement restrictions make purchasing physical cards impossible.
         image: /images/costs_incurred.png
-      - media_position: left
-        media_width: fifty
-        align: right
-        type: feature
-        title: That call is sometimes all they need to keep going another day
-        content: Migrant workers are here in Singapore to support their families. Call
-          Home enables them to call their families back home easily and
-          virtually for free. Often, that one call is all they need to keep
-          going for another day.
-        image: /images/undraw_social_life_4np1.svg
-      - media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        title: Call Home lets them make 3G to landline calls for free, with your help.
-        content: 98.5% of the proceeds will go directly to the worker's talktime, making
-          it free for workers. We have also negotiated a discounted rate so that
-          donating to Call Home is up to 30% cheaper than simply purchasing
-          international calling cards, making your donation stretch further.
-        image: /images/undraw_savings_re_eq4w.svg
-      - media_position: left
-        media_width: fifty
-        align: right
-        type: feature
-        title: Give migrant workers the comfort of hearing a loved one’s voice
-        content: Just $25 a month gives 1 worker 400 minutes of high-quality talk-time
-          with their parents, spouse, and children.
-        image: /images/undraw_order_confirmed_aaw7.svg
     background_image_position: null
   - align: center
     padding_top: medium
@@ -143,7 +115,7 @@ sections:
         title: Give migrant workers the comfort of hearing a loved one’s voice
         content: Just $25 a month gives 1 worker 400 minutes of high-quality talk-time
           with their parents, spouse, and children.
-        image: /images/undraw_going_offline_ihag.svg
+        image: /images/undraw_appreciation_sjc1.svg
     background_image_position: null
   - align: center
     padding_top: null

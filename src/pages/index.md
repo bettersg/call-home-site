@@ -49,24 +49,6 @@ sections:
         type: feature
         image: /images/undraw_contact_us_15o2.svg
         actions: []
-      - type: feature
-        title: Call back home to Bangladesh for free
-        content: No terms and conditions attached!
-        actions: []
-        image: /images/undraw_order_confirmed_aaw7.svg
-        media_position: left
-        media_width: fifty
-        align: right
-      - media_position: right
-        align: left
-        media_width: fifty
-        subtitle: ""
-        title: "Use on Chrome internet browser  "
-        content: Using a Xiaomi phone and Call Home doesn’t work? Make sure you use
-          Chrome, not the Mi browser!
-        type: feature
-        image: /images/undraw_search_engines_nn9e.svg
-        actions: []
   - align: center
     padding_top: medium
     feature_padding_vert: medium

@@ -29,6 +29,7 @@ export default class Footer extends React.Component {
                 				{has_logo && (
                 				<div className="site-footer__logo cell-12 cell-md-5 my-4">
                 					<img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)} />
+                                    <div dangerouslySetInnerHTML={{ __html: "<p>Call Home is an app for migrant workers to call their families back home from 3G to landline calls. Built with love from Singapore.</p>" }} />
                 				</div>
                 				)}
                 				{(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_primary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.primary_nav_links', null)) && (

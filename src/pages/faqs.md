@@ -38,17 +38,16 @@ sections:
       - type: grid_item
         title: Why donate to Call Home? Why not sponsor calling cards directly?
         content: >-
-          Existing solutions do not work well for every migrant worker. For many
-          workers, their families back home do not have stable internet access
-          or cannot afford data plans that make WhatsApp or Viber calls
-          possible. Workers often spend $30-40 each month on calling cards
-          alone, not including data plans they purchase to access other
-          services. The high cost of calls forces them to limit the amount of
-          time they speak to their loved ones for.\
+          Many workers’ families do not have access to wifi and cannot afford
+          data plans that make WhatsApp or Viber calls possible. Workers often
+          spend $30-40 each month on IDD cards alone, not including data plans
+          they purchase to access other services.
 
-          \
 
-          Due to the COVID-19 situation, many migrant workers have yet to return to work, and are not receiving any income. Purchasing calling cards becomes a luxury they cannot afford. For the lucky few that have returned to work, going out to purchase calling cards from stores are out of the question, due to tight movement restrictions. As a result, in times where migrant workers need to lean on their closest family the most, they aren't able to do so. Call Home aims to fill that gap.
+          COVID-19 restrictions mean many migrant workers have yet to return to work. Unable to earn any income, purchasing IDD cards become a luxury they cannot afford. For those that have returned to work, tight movement restrictions mean going out to purchase IDD cards from stores is a significant challenge.
+
+
+          The result: migrant workers cannot reach their families just when they need them the most. Call Home aims to fill that gap.
     enable_cards: true
     grid_cols: two
     has_border: false

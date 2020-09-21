@@ -24,7 +24,7 @@ sections:
     media_width: null
     background_image_repeat: null
     has_border: false
-    background_color: primary
+    background_color: none
     background_image_size: null
     content: >-
       ![Picture of the team](/images/team.png "The 4 of us meeting for the first

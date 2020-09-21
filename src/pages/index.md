@@ -29,9 +29,15 @@ sections:
         icon_position: right
         new_window: true
     background_image_position: center center
-  - type: features_section
-    title: ""
+  - align: center
+    padding_top: medium
+    feature_padding_vert: medium
+    has_border: true
+    background_color: none
     subtitle: ""
+    title: ""
+    padding_bottom: medium
+    type: features_section
     features:
       - media_position: right
         align: left
@@ -61,9 +67,43 @@ sections:
         type: feature
         image: /images/undraw_search_engines_nn9e.svg
         actions: []
-    feature_padding_vert: large
-    align: center
+  - align: center
+    padding_top: medium
+    feature_padding_vert: medium
+    background_image_repeat: null
+    has_border: true
+    background_color: secondary
+    background_image_size: null
+    padding_bottom: medium
+    type: features_section
+    features:
+      - media_position: left
+        media_width: fifty
+        align: right
+        type: feature
+        title: Call back home to Bangladesh for free
+        content: No terms and conditions attached!
+        image: /images/undraw_order_confirmed_aaw7.svg
+    background_image_position: null
+  - align: center
+    padding_top: medium
+    feature_padding_vert: medium
+    background_image_repeat: null
+    has_border: true
     background_color: none
+    background_image_size: null
+    padding_bottom: medium
+    type: features_section
+    features:
+      - media_position: right
+        media_width: fifty
+        align: left
+        type: feature
+        title: Use on Chrome internet browser
+        content: Using a Xiaomi phone and Call Home doesn’t work? Make sure you use
+          Chrome, not the Mi browser!
+        image: /images/undraw_search_engines_nn9e.svg
+    background_image_position: null
   - actions_width: fourty
     align: left
     padding_top: large

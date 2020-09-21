@@ -1,134 +1,46 @@
 ---
 title: About
 sections:
-  - type: hero_section
-    title: About
-    subtitle: About Page Demo
+  - media_position: null
     align: center
+    background_image: /images/team.png
+    background_image_repeat: no-repeat
     background_color: secondary
-  - type: features_section
-    features:
-      - type: feature
-        title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-5.jpg
-        media_position: right
-        media_width: fifty
-      - type: feature
-        title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-2.jpg
-        media_position: left
-        media_width: fifty
-      - type: feature
-        title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
-        media_position: right
-        media_width: fifty
-  - type: grid_section
-    title: Our Officess
-    grid_items:
-      - type: grid_item
-        title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - type: action
-            label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - type: grid_item
-        title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - type: action
-            label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - type: grid_item
-        title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - type: action
-            label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - type: grid_item
-        title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - type: action
-            label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-    grid_cols: four
-    grid_gap_vert: large
-    grid_gap_horiz: large
-    enable_cards: true
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-  - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - type: action
-        label: Compare Plans
-        url: /pricing
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
+    background_image_size: auto
+    background_image_opacity: 50
+    subtitle: Call Home started from 4 friends who wanted to do something for our
+      migrant worker brothers during the COVID-19 period.
+    title: About us
+    content: >-
+      ### Our story
+
+
+      👋 We’re David, Glen, Gloria and Meera! When Singapore entered the circuit breaker period, we found ourselves grateful for the privilege we had to spend time with our families, but concerned that this ability to connect with loved ones was not shared by all.
+
+
+      The donation drives for SIM cards and mobile phones by migrant worker groups prompted us to dig deeper in how to improve connectivity for the migrant worker population. This eventually led to Call Home being born.
+
+
+
+
+      ### Thank you to...
+
+
+      💜 CMSC, TWC2, HOME for helping make Call Home available to migrant workers in Singapore!
+
+
+      💜 Jason Leow for helping make this landing page!
+
+
+      💜 Dot for drawing the illustrations and Ani for translating to Bengali!
+
+
+      💜 Majurity Trust for seed funding and sticking all the way through our pivots!
+
+
+      💜 better.sg and give.asia for the invaluable advice and media opportunities!
+    type: hero_section
+    image: ""
+    background_image_position: center center
 template: advanced
 ---

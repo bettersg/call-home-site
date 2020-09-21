@@ -91,13 +91,22 @@
         "type": "action",
         "label": "Contact",
         "url": "/contact"
+      },
+      {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
+        "new_window": true,
+        "type": "action",
+        "label": "Follow us on Facebook",
+        "url": "https://facebook.com/callhomesg"
       }
     ],
     "secondary_nav_title": "",
     "secondary_nav_links": [],
-    "has_social": true,
+    "has_social": false,
     "has_secondary_nav": true,
-    "content": "&copy; Call Home. All rights reserved.",
+    "content": "&copy; Call Home. All rights reserved.<br/><br/>Call Home is an app for migrant workers to call their families back home from 3G to landline calls. Built with love from Singapore. ",
     "links": [],
     "type": "footer",
     "has_tertiary_nav": true,

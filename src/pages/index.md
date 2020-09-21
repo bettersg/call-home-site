@@ -61,7 +61,7 @@ sections:
     features:
       - media_position: left
         media_width: fifty
-        align: right
+        align: left
         type: feature
         title: Call back home to Bangladesh for free
         content: No terms and conditions attached!

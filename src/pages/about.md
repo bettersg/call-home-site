@@ -40,24 +40,22 @@ sections:
       The donation drives for SIM cards and mobile phones by migrant worker groups prompted us to dig deeper in how to improve connectivity for the migrant worker population. This eventually led to Call Home being born.
 
 
-
-
       ### Thank you to...
 
 
-      💜 CMSC, TWC2, HOME for helping make Call Home available to migrant workers in Singapore!
+      💜 [CMSC](https://www.sgmigrant.com/), [TWC2](https://twc2.org.sg/), [HOME](https://www.home.org.sg/) for helping make Call Home available to migrant workers in Singapore!
 
 
-      💜 Jason Leow for helping make this landing page!
+      💜 [Jason Leow](https://sweetjamsites.com/covid-19/) for helping make this landing page!
 
 
-      💜 Dot for drawing the illustrations and Ani for translating to Bengali!
+      💜 [Dot Ng](https://instagram.com/launshae) for drawing the illustrations and [Aniruddha Adhikary](https://adhikary.net/) for translating to Bengali!
 
 
-      💜 Majurity Trust for seed funding and sticking all the way through our pivots!
+      💜 [Majurity Trust](https://www.majurity.sg/) for seed funding and sticking all the way through our pivots!
 
 
-      💜 better.sg and give.asia for the invaluable advice and media opportunities!
+      💜 [better.sg](https://better.sg/) and [give.asia](https://give.asia/) for the invaluable advice and media opportunities!
     padding_bottom: medium
     type: hero_section
     background_image_position: null

@@ -10,7 +10,7 @@ sections:
     media_width: fifty
     background_image_repeat: no-repeat
     background_color: none
-    background_image_size: auto
+    background_image_size: cover
     subtitle: Call your loved ones for free
     title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন "
     content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা

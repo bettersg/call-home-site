@@ -27,7 +27,7 @@ sections:
         new_window: true
         type: action
         label: যাও Facebook page
-        url: https://www.facebook.com/
+        url: https://facebook.com/callhomesg
         icon: facebook
     background_image_position: null
   - form_position: right

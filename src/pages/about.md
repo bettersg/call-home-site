@@ -8,7 +8,7 @@ sections:
     background_image: ""
     media_width: null
     background_image_repeat: null
-    background_color: null
+    background_color: secondary
     background_image_size: null
     background_image_opacity: ""
     subtitle: Call Home started from 4 friends who wanted to do something for our
@@ -19,12 +19,12 @@ sections:
     image: ""
     background_image_position: null
   - media_position: null
-    align: null
-    padding_top: medium
+    align: left
+    padding_top: small
     media_width: null
     background_image_repeat: null
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: null
     content: >-
       ![Picture of the team](/images/team.png "The 4 of us meeting for the first

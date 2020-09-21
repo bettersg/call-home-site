@@ -235,7 +235,7 @@ sections:
     features:
       - media_position: left
         media_width: fifty
-        align: right
+        align: left
         type: feature
         title: Thank you to our supporters
         subtitle: ""

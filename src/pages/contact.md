@@ -3,7 +3,7 @@ title: Contact us
 sections:
   - type: hero_section
     title: Contact us
-    subtitle: Drop us a message if you have any questions about the app
+    subtitle: Drop us a message if you have any questions about the app.
     align: center
     padding_top: medium
     padding_bottom: medium

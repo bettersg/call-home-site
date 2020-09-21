@@ -212,7 +212,7 @@ sections:
           [HOME](https://www.home.org.sg/). We are very grateful for [Majurity
           Trust](https://www.majurity.sg/) for seed funding, and
           [better.sg](https://better.sg/), [Sweet Jam
-          Sites](https://sweetjamsites.com/), and
+          Sites](https://sweetjamsites.com/covid-19/), and
           [Give.asia](https://give.asia/) for additional support."
         image: /images/all-supporters.png
     background_image_position: null

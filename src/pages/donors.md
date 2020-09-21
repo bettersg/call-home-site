@@ -220,7 +220,7 @@ sections:
         url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
-  - align: center
+  - align: right
     padding_top: medium
     feature_padding_vert: medium
     background_image: ""
@@ -233,9 +233,9 @@ sections:
     padding_bottom: medium
     type: features_section
     features:
-      - media_position: top
+      - media_position: left
         media_width: fifty
-        align: center
+        align: right
         type: feature
         title: Thank you to our supporters
         subtitle: ""

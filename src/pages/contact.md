@@ -17,7 +17,8 @@ sections:
     background_color: primary
     background_image_size: null
     title: " কর্মীদের জন্য For workers"
-    content: সাহায্য দরকার? আমাদের ফেসবুকে পৌঁছে দিন। Need help? Reach us at Facebook.
+    content: সাহায্য চাই? সাহায্য চাই? আমাদের সাথে ফেসবুকে যোগাযোগ করুন। Need help?
+      Reach us at Facebook.
     padding_bottom: medium
     type: cta_section
     actions:
@@ -26,7 +27,7 @@ sections:
         icon_position: left
         new_window: true
         type: action
-        label: যাও Facebook page
+        label: ফেসবুক পেজে যান Facebook page
         url: https://facebook.com/callhomesg
         icon: facebook
     background_image_position: null

@@ -29,7 +29,9 @@ export default class Footer extends React.Component {
                 				{has_logo && (
                 				<div className="site-footer__logo cell-12 cell-md-5 my-4">
                 					<img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)} />
-                                    <div dangerouslySetInnerHTML={{ __html: "<p>\"বাড়িতে ফোন\" একটি ফোনের এপ্লিকেশন, যার সাহায্যে বিদেশী কর্মীরা সিঙ্গাপুর থেকে 3G ব্যবহার করে স্বদেশে তাঁদের প্রিয়জনদের যে কোন মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করতে পারেন। সিঙ্গাপুর থেকে অনেক যত্ন ও ভালোবাসা নিয়ে বানানো।Call Home is an app for migrant workers to call their families back home from 3G to landline calls. Built with love from Singapore.</p>" }} />
+                                    <div className={classNames('site-footer__copyright', 'cell-12', {'cell-sm': footer_social})}>
+                                        <div dangerouslySetInnerHTML={{ __html: "\"বাড়িতে ফোন\" একটি ফোনের এপ্লিকেশন, যার সাহায্যে বিদেশী কর্মীরা সিঙ্গাপুর থেকে 3G ব্যবহার করে স্বদেশে তাঁদের প্রিয়জনদের যে কোন মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করতে পারেন। সিঙ্গাপুর থেকে অনেক যত্ন ও ভালোবাসা নিয়ে বানানো।Call Home is an app for migrant workers to call their families back home from 3G to landline calls. Built with love from Singapore." }} />
+                                    </div>
                 				</div>
                 				)}
                 				{(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_primary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.primary_nav_links', null)) && (

@@ -49,7 +49,7 @@ sections:
       💜 [Jason Leow](https://sweetjamsites.com/covid-19/) for helping make this landing page!
 
 
-      💜 [Dot Ng](https://instagram.com/launshae) for drawing the illustrations, and [](https://adhikary.net/)[Farhan Shahriar](https://www.linkedin.com/in/farhan-shahriar-1885b4153) and [Sonali Dey](https://www.instagram.com/sonaliday/) for translating to Bengali!
+      💜 [Dot Ng](https://instagram.com/launshae) for drawing the illustrations, and [](https://adhikary.net/)[Farhan Shahriar](https://www.linkedin.com/in/farhan-shahriar-1885b4153) and [Sonali Dey](https://www.instagram.com/deybaker/) for translating to Bengali!
 
 
       💜 [Majurity Trust](https://www.majurity.sg/) for seed funding and sticking all the way through our pivots!

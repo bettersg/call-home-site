@@ -12,16 +12,16 @@ sections:
     background_color: none
     background_image_size: cover
     subtitle: Call your loved ones for free
-    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন "
-    content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
-      ব্যবহার করে কল করুন No need IDD cards, call using wifi/data to basic
-      phones back home.
+    title: "বিনামূল্যে আপনার প্রিয়জনদের ফোন করুন। "
+    content: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
+      মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন No need IDD cards, call using
+      wifi/data to basic phones back home.
     padding_bottom: large
     type: hero_section
     image: /images/undraw_hooked_c757.svg
     actions:
       - type: action
-        label: এপ খোল Open app
+        label: অ্যাপ খুলুন Open app
         url: https://app.callhome.sg
         style: primary
         has_icon: true
@@ -42,10 +42,14 @@ sections:
       - media_position: right
         align: left
         media_width: fifty
-        subtitle: ""
-        title: No need IDD cards anymore
-        content: Your family members do not have data plans? Call Home lets you use wifi
-          and data to call basic phones back home, for free.
+        subtitle: No need IDD cards anymore
+        title: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
+          মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন
+        content: আপনার প্রিয়জনদের কাছে ডাটা প্ল্যান নেই? কোনো অসুবিধা নেই। "বাড়িতে
+          ফোন"-এর সাহায্যে আপনি বিনামূল্যে ওয়াই-ফাই ও ডাটা ব্যবহার করে বাড়িতে যে
+          কোন মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করতে পারবেন। Your family
+          members do not have data plans? Call Home lets you use wifi and data
+          to call basic phones back home, for free.
         type: feature
         image: /images/undraw_contact_us_15o2.svg
         actions: []
@@ -63,9 +67,10 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: Call back home to Bangladesh for free
-        content: No terms and conditions attached!
+        title: বিনামূল্যে বাংলাদেশে ফোন করুন
+        content: কোনও শর্তাদি নেই! No terms and conditions attached!
         image: /images/undraw_order_confirmed_aaw7.svg
+        subtitle: Call back home to Bangladesh for free
     background_image_position: null
   - align: center
     padding_top: medium
@@ -81,25 +86,28 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        title: Use on Chrome internet browser
-        content: Using a Xiaomi phone and Call Home doesn’t work? Make sure you use
-          Chrome, not the Mi browser!
+        title: '"ক্রোম" ইন্টারনেট ব্রাউজারে ব্যবহার করুন '
+        content: '"সিয়াওমি" কোম্পানির ফোন ব্যবহার করার সময় "বাড়িতে ফোন" কাজ করছে না?
+          নিশ্চিত করুন যে আপনি "ক্রোম" ইন্টারনেট ব্রাউজারে ব্যবহার করছেন, "মি"
+          ব্রাউজারে এটি কাজ করবে না! Using a Xiaomi phone and Call Home doesn’t
+          work? Make sure you use Chrome, not the Mi browser!'
         image: /images/undraw_search_engines_nn9e.svg
+        subtitle: Use on Chrome internet browser
     background_image_position: null
   - actions_width: fourty
     align: left
     padding_top: large
     actions_position: right
     background_color: primary
-    title: " আপনার প্রিয়জনকে বিনামূল্যে কল করুন Call your loved ones for free"
-    content: আইডিডি কার্ডের দরকার নেই, বাসায় ফিরে বেসিক ফোনে ওয়াইফাই / ডেটা
-      ব্যবহার করে কল করুন No need IDD cards, call using wifi/data to basic
-      phones back home
+    title: বিনামূল্যে আপনার প্রিয়জনদের ফোন করুন। Call your loved ones for free
+    content: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
+      মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন No need IDD cards, call using
+      wifi/data to basic phones back home
     padding_bottom: large
     type: cta_section
     actions:
       - type: action
-        label: এপ খোল Open app
+        label: অ্যাপ খুলুন Open app
         url: https://app.callhome.sg
         style: primary
         has_icon: true

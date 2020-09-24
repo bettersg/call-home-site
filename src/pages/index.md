@@ -236,7 +236,8 @@ sections:
     background_color: secondary
     grid_gap_vert: medium
     background_image_size: null
-    title: Frequently Asked Questions
+    subtitle: Frequently Asked Questions
+    title: সচরাচর জিজ্ঞাসা
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section

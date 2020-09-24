@@ -123,13 +123,13 @@ sections:
         image_has_padding: false
         image_position: null
         subtitle: "Do I need internet access to make calls on Call Home? "
-        title: কল হোমে কল করার জন্য আমার কি ইন্টারনেট অ্যাক্সেস দরকার?
-        content: |-
+        title: Call Home ব্যবহার করার জন্য ইন্টারনেট প্রয়োজন?
+        content: >-
           - - -
 
 
+          হ্যাঁ ৷ Call Home ব্যবহার করার জন্য আপনার মোবাইল ডাটা অথবা Wi-Fi প্রয়োজন৷ 
 
-          হ্যাঁ, হয় ডেটা বা ওয়াইফাই এর মাধ্যমে।
 
           Yes, either through data or wifi.
         type: grid_item
@@ -142,14 +142,12 @@ sections:
         image_has_padding: false
         image_position: null
         subtitle: "Do my loved ones back home need to have internet access? "
-        title: বাড়িতে ফিরে আমার প্রিয়জনদের কি ইন্টারনেট অ্যাক্সেস থাকা দরকার?
+        title: আমার প্রিয়জনদেরও কি ইন্টারনেট সুবিধা থাকা দরকার?
         content: >-
           - - -
 
 
-
-
-          না। আপনি সাধারণ ফোনে যেমন সরাসরি তাদের ফোনে কল করবেন।
+          না ৷ সাধারণ আইডিডি কলের মতো আপনি আপনার প্রিয়জনকে সরাসরি তার ফোনে কল করতে পারবেন৷ 
 
 
           No. You will call them directly on their phone, just like in a normal IDD call.
@@ -163,14 +161,13 @@ sections:
         image_has_padding: false
         image_position: null
         subtitle: Do I or my loved one need to pay for this service?
-        title: আমার প্রিয়জনটির কি আমার এই পরিষেবার জন্য অর্থ প্রদান করা দরকার?
+        title: আমার অথবা আমার প্রিয়জনকে এই সার্ভিস ব্যবহার করার জন্য অর্থ প্রদান করতে
+          হবে?
         content: >-
           - - -
 
 
-
-
-          না। পরিষেবা উভয় পক্ষের জন্য বিনামূল্যে।\[Need to include translation for data lines]
+          না ৷ এই সার্ভিসটি উভয় পক্ষ বিনামূল্যে ব্যবহার করতে পারবে৷ কিন্তু মোবাইল ডাটা ব্যবহার করলে, প্রতি ঘন্টায় ১.৫MB ডাটা খরচ হবে৷
 
 
           No. The service is free for both sides. You do use data for the service though. 1 hour of call time should use up around 1.5MB of data.
@@ -184,13 +181,11 @@ sections:
         image_has_padding: false
         image_position: null
         subtitle: "Are there any call limits? "
-        title: কোন কল সীমা আছে?
+        title: আমি কত গুলো কল করতে পারবো?
         content: |-
           - - -
 
-
-
-          না। আপনি যতক্ষণ ইচ্ছা চ্যাট করতে পারেন।
+          এই সার্ভিসটি ব্যবহার করে আপনি যত ইচ্ছে কল করতে পারবেন৷
 
           No. You can chat for as long as you wish.
         type: grid_item
@@ -203,13 +198,13 @@ sections:
         image_has_padding: false
         image_position: null
         subtitle: What caller ID will my loved one see? 
-        title:  আমার প্রিয়জন কোন কলার আইডি দেখতে পাবে?
-        content: |-
+        title: আমার প্রিয়জন কোন কলার আইডি দেখতে পাবে?
+        content: >-
           - - -
 
 
+          তারা সাধারণ সিঙ্গাপুরের মোবাইল নম্বর দেখতে পারবে এবং এই নম্বরের আগে  +৬৫ থাকবে৷
 
-          তারা জেনেরিক সিঙ্গাপুরের মোবাইল নম্বরটি +65 দিয়ে শুরু করবে
 
           They will see a generic Singaporean mobile number starting with +65.
         type: grid_item
@@ -222,14 +217,12 @@ sections:
         image_has_padding: false
         image_position: null
         subtitle: I can’t make any calls. What do I do?
-        title: " আমি কোনও কল করতে পারি না আমি কি করব?"
+        title: আমি কোন কল করতে পারছি না৷ আমার করণীয় কি?
         content: >-
           - - -
 
 
-
-
-          কল করার জন্য আপনার কাছে পর্যাপ্ত ডেটা বা শক্তিশালী ওয়াইফাই সংযোগ রয়েছে তা নিশ্চিত করুন। আপনি যদি মি ব্রোভার ব্যবহার করছেন তবে ক্রোম ব্রাউজারে স্যুইচ করুন এবং আবার চেষ্টা করুন।
+          কল করার জন্য আপনার কাছে পর্যাপ্ত মোবাইল ডাটা বা শক্তিশালী Wi-Fi সংযোগ রয়েছে কিনা তা নিশ্চিত করুন। আপনি Mi ব্রাউজার ব্যবহার করে থাকলে গুগল ক্রোম ব্রাউজারে স্যুইচ করুন এবং আবার চেষ্টা করুন।
 
 
           Ensure you have enough data or strong wifi connection to make a call. If you are using Mi brower, switch over to Chrome browser and try again.

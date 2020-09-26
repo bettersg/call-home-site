@@ -237,7 +237,7 @@ sections:
     grid_gap_vert: medium
     background_image_size: null
     subtitle: Frequently Asked Questions
-    title: সচরাচর জিজ্ঞাসা
+    title: ঘন ঘন জিজ্ঞাসাকৃত প্রশ্নসমূহ
     padding_bottom: medium
     grid_gap_horiz: medium
     type: grid_section

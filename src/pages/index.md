@@ -5,7 +5,7 @@ excerpt: "Call Home is an app for migrant workers to call their families back
 sections:
   - media_position: right
     align: left
-    padding_top: small
+    padding_top: none
     background_image: /images/hero_background.svg
     media_width: fifty
     background_image_repeat: no-repeat
@@ -16,7 +16,7 @@ sections:
     content: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
       মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন No need IDD cards, call using
       wifi/data to basic phones back home.
-    padding_bottom: small
+    padding_bottom: medium
     type: hero_section
     image: /images/hero_mockups.svg
     actions:
@@ -96,14 +96,14 @@ sections:
     background_image_position: null
   - actions_width: fourty
     align: left
-    padding_top: small
+    padding_top: medium
     actions_position: right
     background_color: primary
     title: বিনামূল্যে আপনার প্রিয়জনদের ফোন করুন। Call your loved ones for free
     content: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
       মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন No need IDD cards, call using
       wifi/data to basic phones back home
-    padding_bottom: small
+    padding_bottom: medium
     type: cta_section
     actions:
       - type: action

@@ -6,8 +6,6 @@ template: page
 
 This Application collects some Personal Data from its Users.
 
-
-
 This document can be printed for reference by using the print command in the settings of any browser.
 
 ## Owner and Data Controller
@@ -121,9 +119,7 @@ Personal Data processed: email address.
 
 Place of processing: United States – [Privacy Policy](https://www.netlify.com/privacy/).
 
-
-
-##  The rights of Users
+## The rights of Users
 
 Users may exercise certain rights regarding their Data processed by the Owner.
 
@@ -228,4 +224,4 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-<a href="https://www.iubenda.com/privacy-policy/84405191" class="iubenda-white iubenda-embed" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+<a href="https://www.iubenda.com/privacy-policy/81392185" class="iubenda-white iubenda-embed" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>

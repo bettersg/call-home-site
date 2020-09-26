@@ -57,7 +57,7 @@ typings/
 # gatsby files
 .cache/
 public
-src/pages/_pricing.md
+_pricing
 
 # Mac files
 .DS_Store

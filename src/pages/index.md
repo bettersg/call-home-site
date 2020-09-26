@@ -51,7 +51,7 @@ sections:
           members do not have data plans? Call Home lets you use wifi and data
           to call basic phones back home, for free.
         type: feature
-        image: /images/undraw_contact_us_15o2.svg
+        image: /images/01-no_idd.svg
         actions: []
   - align: center
     padding_top: medium
@@ -69,7 +69,7 @@ sections:
         type: feature
         title: বিনামূল্যে বাংলাদেশে ফোন করুন
         content: কোনও শর্তাদি নেই! No terms and conditions attached!
-        image: /images/undraw_order_confirmed_aaw7.svg
+        image: /images/02-1-free_call_bangladesh.svg
         subtitle: Call back home to Bangladesh for free
     background_image_position: null
   - align: center
@@ -91,7 +91,7 @@ sections:
           নিশ্চিত করুন যে আপনি "ক্রোম" ইন্টারনেট ব্রাউজারে ব্যবহার করছেন, "মি"
           ব্রাউজারে এটি কাজ করবে না! Using a Xiaomi phone and Call Home doesn’t
           work? Make sure you use Chrome, not the Mi browser!'
-        image: /images/undraw_search_engines_nn9e.svg
+        image: /images/03-chrome_browser.svg
         subtitle: Use on Chrome internet browser
     background_image_position: null
   - actions_width: fourty

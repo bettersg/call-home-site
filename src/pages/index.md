@@ -18,7 +18,7 @@ sections:
       wifi/data to basic phones back home.
     padding_bottom: large
     type: hero_section
-    image: /images/undraw_hooked_c757.svg
+    image: /images/app_3d_mockups.png
     actions:
       - type: action
         label: অ্যাপ খুলুন Open app

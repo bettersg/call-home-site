@@ -18,7 +18,7 @@ sections:
       wifi/data to basic phones back home.
     padding_bottom: medium
     type: hero_section
-    image: /images/hero_mockups.svg
+    image: /images/hero-3d_mockups.svg
     actions:
       - type: action
         label: অ্যাপ খুলুন Open app

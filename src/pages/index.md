@@ -5,7 +5,7 @@ excerpt: "Call Home is an app for migrant workers to call their families back
 sections:
   - media_position: right
     align: left
-    padding_top: large
+    padding_top: small
     background_image: /images/hero_background.svg
     media_width: fifty
     background_image_repeat: no-repeat
@@ -16,7 +16,7 @@ sections:
     content: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
       মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন No need IDD cards, call using
       wifi/data to basic phones back home.
-    padding_bottom: large
+    padding_bottom: small
     type: hero_section
     image: /images/hero_mockups.svg
     actions:
@@ -30,13 +30,13 @@ sections:
         new_window: true
     background_image_position: center center
   - align: center
-    padding_top: medium
+    padding_top: small
     feature_padding_vert: medium
     has_border: true
     background_color: none
     subtitle: ""
     title: ""
-    padding_bottom: medium
+    padding_bottom: small
     type: features_section
     features:
       - media_position: right
@@ -54,13 +54,13 @@ sections:
         image: /images/01-no_idd.svg
         actions: []
   - align: center
-    padding_top: medium
+    padding_top: small
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: secondary
     background_image_size: null
-    padding_bottom: medium
+    padding_bottom: small
     type: features_section
     features:
       - media_position: left
@@ -73,13 +73,13 @@ sections:
         subtitle: Call back home to Bangladesh for free
     background_image_position: null
   - align: center
-    padding_top: medium
+    padding_top: small
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: none
     background_image_size: null
-    padding_bottom: medium
+    padding_bottom: small
     type: features_section
     features:
       - media_position: right
@@ -96,14 +96,14 @@ sections:
     background_image_position: null
   - actions_width: fourty
     align: left
-    padding_top: large
+    padding_top: small
     actions_position: right
     background_color: primary
     title: বিনামূল্যে আপনার প্রিয়জনদের ফোন করুন। Call your loved ones for free
     content: আইডিডি কার্ডের আর প্রয়োজন নেই, ওয়াই-ফাই/ডাটা দিয়েই বাড়িতে যে কোন
       মোবাইল/ল্যান্ডলাইনে (ঘরের ফোনে) ফোন করুন No need IDD cards, call using
       wifi/data to basic phones back home
-    padding_bottom: large
+    padding_bottom: small
     type: cta_section
     actions:
       - type: action

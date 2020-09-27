@@ -12,8 +12,7 @@ sections:
     grid_items:
       - type: grid_item
         title: How does Call Home work? How much do migrant workers save?
-        content: Call Home is powered by Twilio, which allows 3G to landline calls.
-          We’ve negotiated a discounted rate from Twilio, which means that the
+        content: Call Home is powered by Twilio, which allows 3G to landline calls. Our
           overall calling costs are up to 30% lower than standard calling rates.
       - type: grid_item
         title: Which countries does Call Home support?

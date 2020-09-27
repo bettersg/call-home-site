@@ -27,8 +27,8 @@ sections:
     background_color: none
     background_image_size: null
     content: >-
-      ![Picture of the team](/images/team.png "The 4 of us meeting for the first
-      time in-person in Jul 2020")
+      ![Picture of the team](/images/img_0977-1280px.png "The 4 of us meeting
+      for the first time in-person in Jul 2020")
 
 
       ### Our story

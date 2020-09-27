@@ -1,5 +1,5 @@
 ---
-title: Call Home
+title: Home
 excerpt: "Call Home is an app for migrant workers to call their families back
   home from 3G to landline calls. Built with love from Singapore. "
 sections:

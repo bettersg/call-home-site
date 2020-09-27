@@ -33,7 +33,7 @@ sections:
       ### Our story
 
 
-      👋 We’re David, Glen, Gloria and Meera! When Singapore entered the circuit breaker period, we found ourselves grateful for the privilege we had to spend time with our families, but concerned that this ability to connect with loved ones was not shared by all.
+      👋 We’re Meera, Glen, Gloria and David! When Singapore entered the circuit breaker period, we found ourselves grateful for the privilege we had to spend time with our families, but concerned that this ability to connect with loved ones was not shared by all.
 
 
       The donation drives for SIM cards and mobile phones by migrant worker groups prompted us to dig deeper in how to improve connectivity for the migrant worker population. This eventually led to Call Home being born.

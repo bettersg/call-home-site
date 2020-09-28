@@ -206,12 +206,8 @@ sections:
     background_color: primary
     background_image_size: cover
     title: Give the comfort of hearing a loved one’s voice
-    content: >-
-      Just $25 gives 1 migrant worker a month of high-quality talk-time with
-      their parents, spouse, and children.
-
-
-      <script src="https://give.asia/campaign-embed.js?id=DmTzLu&key=help-migrant-workers-call-their-family-back-home-sg-united" type="text/javascript" id="DmTzLu"></script>
+    content: Just $25 gives 1 migrant worker a month of high-quality talk-time with
+      their parents, spouse and children.
     padding_bottom: medium
     type: cta_section
     actions:

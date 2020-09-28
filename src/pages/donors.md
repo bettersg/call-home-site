@@ -54,7 +54,7 @@ sections:
           \
 
           COVID restrictions mean many cannot return to work or leave their dorms. Salary cuts make these cards too expensive, while movement restrictions make purchasing physical cards impossible.
-        image: /images/costs_incurred.png
+        image: /images/costs_incurred.svg
     background_image_position: null
   - align: center
     padding_top: medium

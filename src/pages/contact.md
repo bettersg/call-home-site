@@ -77,7 +77,10 @@ sections:
       ### For donors
 
 
-      Questions about the app or the campaign? Interested in corporate sponsorships? Email us or fill in the form here.
+      Questions about the app, or the campaign? Interested in corporate sponsorships? Email us or fill in the form here.
+
+
+      <script src="https://give.asia/campaign-embed.js?id=DmTzLu&key=help-migrant-workers-call-their-family-back-home-sg-united" type="text/javascript" id="DmTzLu"></script>
     padding_bottom: medium
     type: form_section
     content_align: left

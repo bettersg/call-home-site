@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: secondary
   - actions_width: fifty
     align: left
     padding_top: medium
@@ -38,7 +38,7 @@ sections:
     form_width: fifty
     enable_card: true
     submit_label: Send Message
-    background_color: secondary
+    background_color: none
     form_fields:
       - type: form_field
         input_type: text

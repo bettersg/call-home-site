@@ -233,7 +233,7 @@ sections:
     grid_cols: two
     background_image_repeat: null
     has_border: false
-    background_color: secondary
+    background_color: none
     grid_gap_vert: medium
     background_image_size: null
     subtitle: Frequently Asked Questions

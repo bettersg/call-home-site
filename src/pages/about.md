@@ -8,7 +8,7 @@ sections:
     background_image: ""
     media_width: null
     background_image_repeat: null
-    background_color: secondary
+    background_color: none
     background_image_size: null
     background_image_opacity: ""
     subtitle: Call Home started from 4 friends who wanted to do something for our
@@ -24,7 +24,7 @@ sections:
     media_width: null
     background_image_repeat: null
     has_border: false
-    background_color: none
+    background_color: secondary
     background_image_size: null
     content: >-
       ![Picture of the team](/images/img_0977-1-.jpg)

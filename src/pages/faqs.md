@@ -50,7 +50,7 @@ sections:
     enable_cards: true
     grid_cols: two
     has_border: false
-    background_color: secondary
+    background_color: none
     grid_gap_vert: medium
     title: ""
     padding_bottom: medium

@@ -5,6 +5,7 @@ excerpt: Call Home started from 4 friends who wanted to do something for our
 sections:
   - media_position: null
     align: center
+    padding_top: medium
     background_image: ""
     media_width: null
     background_image_repeat: null
@@ -15,6 +16,7 @@ sections:
       migrant worker brothers during the COVID-19 period.
     title: About us
     content: ""
+    padding_bottom: medium
     type: hero_section
     image: ""
     background_image_position: null

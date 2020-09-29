@@ -5,8 +5,8 @@ sections:
     title: FAQs
     subtitle: Frequently asked questions
     align: center
-    padding_top: large
-    padding_bottom: small
+    padding_top: medium
+    padding_bottom: medium
     background_color: secondary
   - padding_top: medium
     grid_items:

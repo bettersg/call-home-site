@@ -232,7 +232,7 @@ sections:
     enable_cards: true
     grid_cols: two
     background_image_repeat: null
-    has_border: false
+    has_border: true
     background_color: none
     grid_gap_vert: medium
     background_image_size: null

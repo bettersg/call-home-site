@@ -72,7 +72,7 @@ export default class FormSection extends React.Component {
                 			</div>
                 			)}
                 			<div className={classNames('section__form', 'my-2', 'cell-12', {'cell-md-5': (is_horiz && has_text) && (form_width === 'fourty'), 'cell-md-6': (is_horiz && has_text) && (form_width === 'fifty'), 'cell-md-7': (is_horiz && has_text) && (form_width === 'sixty'), 'order-first': (form_pos === 'top') || (form_pos === 'left')})}>
-                				<form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} method="POST" data-netlify="true" netlifyHoneypot={_.get(section, 'form_id', null) + '-bot-field'} className={classNames({'form-inline': form_is_inline, 'card': form_is_card, 'p-4': form_is_card, 'p-sm-5': form_is_card})}>
+                				<form name={_.get(section, 'form_id', null)} id={_.get(section, 'form_id', null)} method="POST" data-netlify-recaptcha="true" data-netlify="true" netlifyHoneypot={_.get(section, 'form_id', null) + '-bot-field'} className={classNames({'form-inline': form_is_inline, 'card': form_is_card, 'p-4': form_is_card, 'p-sm-5': form_is_card})}>
                 					<div className="sr-only">
                 						<label id={_.get(section, 'form_id', null) + '-honeypot-label'} htmlFor={_.get(section, 'form_id', null) + '-honeypot'}>Don't fill this out if you're human:</label>
                 						<input aria-labelledby={_.get(section, 'form_id', null) + '-honeypot-label'} id={_.get(section, 'form_id', null) + '-honeypot'} name={_.get(section, 'form_id', null) + '-bot-field'} />
@@ -86,6 +86,7 @@ export default class FormSection extends React.Component {
                 							</div>
                 							))
                 						)}
+                                        <div data-netlify-recaptcha="true"></div>
                 						<div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
                 							<button type="submit" className="btn btn--primary">{_.get(section, 'submit_label', null)}</button>
                 						</div>

@@ -18,7 +18,7 @@ sections:
       wifi/data to basic phones back home.
     padding_bottom: medium
     type: hero_section
-    image: /images/hero_section-3dmockups.svg
+    image: /images/1-call-loved-ones.svg
     actions:
       - type: action
         label: অ্যাপ খুলুন Open app

@@ -99,7 +99,7 @@ sections:
         image: /images/8-3g-to-landline.svg
     background_image_position: null
   - align: center
-    padding_top: medium
+    padding_top: large
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true

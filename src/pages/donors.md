@@ -30,13 +30,13 @@ sections:
         icon: arrow-right
     background_image_position: center center
   - align: center
-    padding_top: medium
+    padding_top: small
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: none
     background_image_size: null
-    padding_bottom: medium
+    padding_bottom: small
     type: features_section
     features:
       - media_position: right

@@ -5,7 +5,7 @@ excerpt: "Call Home is an app for migrant workers to call their families back
 sections:
   - media_position: right
     align: left
-    padding_top: none
+    padding_top: medium
     background_image: /images/hero_background.svg
     media_width: fifty
     background_image_repeat: no-repeat

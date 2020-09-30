@@ -18,7 +18,7 @@ sections:
       their loved ones for support.
     padding_bottom: medium
     type: hero_section
-    image: /images/undraw_transfer_money_rywa.svg
+    image: /images/5-miss-home.svg
     actions:
       - style: primary
         has_icon: true
@@ -54,7 +54,7 @@ sections:
           \
 
           COVID restrictions mean many cannot return to work or leave their dorms. Salary cuts make these cards too expensive, while movement restrictions make purchasing physical cards impossible.
-        image: /images/costs_incurred.svg
+        image: /images/6-cost-of-calls.svg
     background_image_position: null
   - align: center
     padding_top: medium
@@ -75,7 +75,7 @@ sections:
           Home enables them to call their families back home easily and
           virtually for free. Often, that one call is all they need to keep
           going for another day.
-        image: /images/undraw_social_life_4np1.svg
+        image: /images/7-go-another-day.svg
     background_image_position: null
   - align: center
     padding_top: medium
@@ -96,7 +96,7 @@ sections:
           it free for workers. We have also negotiated a discounted rate so that
           donating to Call Home is up to 30% cheaper than standard calling
           rates, making your donation stretch further.
-        image: /images/undraw_savings_re_eq4w.svg
+        image: /images/8-3g-to-landline.svg
     background_image_position: null
   - align: center
     padding_top: medium
@@ -115,7 +115,7 @@ sections:
         title: Give migrant workers the comfort of hearing a loved one’s voice
         content: Just $25 a month gives 1 worker 400 minutes of high-quality talk-time
           with their parents, spouse, and children.
-        image: /images/undraw_appreciation_sjc1.svg
+        image: /images/9-loved-ones-voice.svg
     background_image_position: null
   - align: center
     padding_top: null

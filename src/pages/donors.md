@@ -30,13 +30,13 @@ sections:
         icon: arrow-right
     background_image_position: center center
   - align: center
-    padding_top: small
+    padding_top: none
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: none
     background_image_size: null
-    padding_bottom: small
+    padding_bottom: none
     type: features_section
     features:
       - media_position: right
@@ -57,13 +57,13 @@ sections:
         image: /images/6-cost-of-calls.svg
     background_image_position: null
   - align: center
-    padding_top: medium
+    padding_top: none
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: secondary
     background_image_size: null
-    padding_bottom: medium
+    padding_bottom: none
     type: features_section
     features:
       - media_position: left
@@ -78,13 +78,13 @@ sections:
         image: /images/7-go-another-day.svg
     background_image_position: null
   - align: center
-    padding_top: medium
+    padding_top: none
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: none
     background_image_size: null
-    padding_bottom: medium
+    padding_bottom: none
     type: features_section
     features:
       - media_position: right
@@ -99,13 +99,13 @@ sections:
         image: /images/8-3g-to-landline.svg
     background_image_position: null
   - align: center
-    padding_top: medium
+    padding_top: small
     feature_padding_vert: medium
     background_image_repeat: null
     has_border: true
     background_color: secondary
     background_image_size: null
-    padding_bottom: medium
+    padding_bottom: small
     type: features_section
     features:
       - media_position: left

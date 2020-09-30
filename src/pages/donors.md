@@ -4,7 +4,7 @@ excerpt: Why donate to Call Home? Info page for donors
 sections:
   - media_position: right
     align: left
-    padding_top: none
+    padding_top: small
     background_image: /images/hero_background.svg
     media_width: fifty
     background_image_repeat: no-repeat

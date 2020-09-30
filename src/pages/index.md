@@ -69,7 +69,7 @@ sections:
         type: feature
         title: বিনামূল্যে বাংলাদেশে ফোন করুন
         content: কোনও শর্তাদি নেই! No terms and conditions attached!
-        image: /images/02-1-free_call_bangladesh.svg
+        image: /images/3.1-free-call-bangladesh.svg
         subtitle: Call back home to Bangladesh for free
     background_image_position: null
   - align: center

@@ -1,6 +1,22 @@
 /**
  * Button Styles
  */
+
+// Start of unelegant css hacks
+.navbar__menu .btn--primary {
+    background-color: #FF6697 !important;
+}
+
+.hero__actions .btn--primary {
+    background-color: #FF6697 !important;
+}
+
+.btn--secondary {
+	background-color: #FFFFFF !important;
+	color: #2c343c !important;
+}
+//End of unelegant css hacks
+
 .btn {
 	align-items: center;
 	background-color: $color-btn-bg;
@@ -151,12 +167,4 @@
 			}
 		}
 	}
-}
-
-.navbar__menu .btn--primary {
-    background-color: #FF6697 !important;
-}
-
-.hero__actions .btn--primary {
-    background-color: #FF6697 !important;
 }

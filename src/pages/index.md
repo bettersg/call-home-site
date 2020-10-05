@@ -29,12 +29,13 @@ sections:
         icon_position: right
         new_window: true
       - style: secondary
-        has_icon: false
+        has_icon: true
         icon_position: right
         new_window: true
         type: action
         label: Join waitlist
         url: /join-our-waitlist
+        icon: arrow-right
     background_image_position: center center
   - align: center
     padding_top: small

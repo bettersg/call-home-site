@@ -100,6 +100,15 @@
         "type": "action",
         "label": "Contact",
         "url": "/contact"
+      },
+      {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": "right",
+        "new_window": false,
+        "type": "action",
+        "label": "Join waitlist",
+        "url": "/join-our-waitlist"
       }
     ],
     "secondary_nav_title": "",

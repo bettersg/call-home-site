@@ -7,7 +7,7 @@ sections:
     media_width: fifty
     background_image_repeat: no-repeat
     has_border: false
-    background_color: none
+    background_color: secondary
     background_image_size: cover
     subtitle: ""
     title: Join our waitlist

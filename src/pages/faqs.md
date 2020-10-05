@@ -29,8 +29,8 @@ sections:
       - type: grid_item
         title: What will the funds be used for?
         content: 98.5% of donations will go to fund the calling costs for migrant
-          workers. The remaining 1.5% goes to Give.asia, for development costs
-          to keep Call Home running.
+          workers. The remaining 1.5% goes to Give.asia to cover credit card
+          admin processing fees.
       - type: grid_item
         title: How will Call Home sustain itself for the long-term?
         content: Call Home started as a passion project between four friends who wanted

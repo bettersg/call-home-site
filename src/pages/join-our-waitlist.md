@@ -47,13 +47,13 @@ sections:
         options:
           - Yes
           - No
-        default_value: Yes
+        default_value: ""
       - is_required: true
         type: form_field
         input_type: number
         name: years
         label: How many years have you been in Singapore?
-        default_value: "3"
+        default_value: ""
     background_image_size: cover
     form_id: waitlist
     padding_bottom: medium

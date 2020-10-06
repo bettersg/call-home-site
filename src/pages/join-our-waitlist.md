@@ -59,7 +59,7 @@ sections:
           - China
           - Malaysia
           - Others
-        default_value: We only support Bangladesh for now
+        default_value: ""
       - is_required: true
         type: form_field
         input_type: number

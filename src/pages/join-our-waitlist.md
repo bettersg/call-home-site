@@ -9,8 +9,8 @@ sections:
     has_border: false
     background_color: secondary
     background_image_size: cover
-    subtitle: ""
-    title: আমাদের ওয়েটিং লিস্টে যোগ দিন Join our waitlist
+    subtitle: Join our waitlist
+    title: আমাদের ওয়েটিং লিস্টে যোগ দিন
     content: >-
       আপনি যদি একজন বিদেশী কর্মী এবং এই অ্যাপটি ব্যবহার করতে চান, তাহলে এই
       ফর্মটি ভরে দিন! আমরা ভবিষ্যতে যখন এই অ্যাপটির ক্ষমতা বাড়িয়ে দিয়ে আরও

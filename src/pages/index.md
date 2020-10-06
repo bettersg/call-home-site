@@ -33,7 +33,7 @@ sections:
         icon_position: right
         new_window: true
         type: action
-        label: Join our waitlist
+        label: আমাদের ওয়েটিং লিস্টে যোগ দিন Join our waitlist
         url: /join-our-waitlist
         icon: arrow-right
     background_image_position: center center

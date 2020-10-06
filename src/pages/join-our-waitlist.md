@@ -43,11 +43,16 @@ sections:
         type: form_field
         input_type: select
         name: country
-        label: Are you from Bangladesh?
+        label: Which country are you from?
         options:
-          - Yes
-          - No
-        default_value: ""
+          - Bangladesh
+          - Myanmar
+          - Philippines
+          - India
+          - China
+          - Malaysia
+          - Others
+        default_value: We only support Bangladesh for now
       - is_required: true
         type: form_field
         input_type: number

@@ -10,9 +10,16 @@ sections:
     background_color: secondary
     background_image_size: cover
     subtitle: ""
-    title: Join our waitlist
-    content: If you're a migrant worker and you're interested in using the app, fill
-      in this form! We will let you know as soon as we open it up to more users.
+    title: আমাদের ওয়েটিং লিস্টে যোগ দিন Join our waitlist
+    content: >-
+      আপনি যদি একজন বিদেশী কর্মী এবং এই অ্যাপটি ব্যবহার করতে চান, তাহলে এই
+      ফর্মটি ভরে দিন! আমরা ভবিষ্যতে যখন এই অ্যাপটির ক্ষমতা বাড়িয়ে দিয়ে আরও
+      মানুষকে সেবা করতে পারব, তখন আপনাকে নিশ্চই জানবো।
+
+
+
+
+      If you're a migrant worker and you're interested in using the app, fill in this form! We will let you know as soon as we open it up to more users.
     padding_bottom: medium
     type: hero_section
     background_image_position: center center

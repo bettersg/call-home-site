@@ -18,8 +18,9 @@ sections:
           landline calling, SMS delivery, phone number verification). This makes
           it super easy for us to iterate the service to best fit our users'
           needs. Supported by Twillio.org, Call Home gets a discounted rate from
-          Twilio, which means that the overall calling costs are up to 30% lower
-          than standard calling rates.
+          Twilio, which means that the overall calling costs are 40-55% than
+          standard calling rates, and are competitive with the lowest rates in
+          the market.
       - type: grid_item
         title: Which countries does Call Home support?
         content: Currently, we support migrant workers with a valid Singapore number.

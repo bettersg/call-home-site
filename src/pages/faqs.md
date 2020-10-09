@@ -21,7 +21,7 @@ sections:
           needs. 
 
 
-          Supported by Twillio.org, Call Home gets a discounted rate from Twilio, which means that the overall calling costs are 40-55% than standard calling rates, and are competitive with the lowest rates in the market.
+          Supported by Twillio.org, Call Home gets a heavily discounted rate, which means that the overall calling costs are 40-55% than standard calling rates, among the lowest in the market.
       - type: grid_item
         title: How will Call Home sustain itself for the long-term?
         content: Call Home started as a passion project between four friends who wanted

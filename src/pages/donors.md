@@ -94,8 +94,8 @@ sections:
         title: Call Home lets them make 3G to landline calls for free, with your help.
         content: 98.5% of the proceeds will go directly to the worker's talktime, making
           it free for workers. We have also negotiated a discounted rate so that
-          donating to Call Home is up to 30% cheaper than standard calling
-          rates, making your donation stretch further.
+          donating to Call Home is 40-55% cheaper than standard calling rates,
+          making your donation stretch even further.
         image: /images/8-3g-to-landline.svg
     background_image_position: null
   - align: center

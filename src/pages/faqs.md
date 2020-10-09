@@ -12,15 +12,25 @@ sections:
     grid_items:
       - type: grid_item
         title: How does Call Home work? How much do migrant workers save?
-        content: Call Home is powered by Twilio, which allows 3G to landline calls. We
+        content: >-
+          Call Home is powered by Twilio, which allows 3G to landline calls. We
           chose Twilio because they're an industry-standard mature product, have
           good documentation, and do all the things we need (e.g. browser to
           landline calling, SMS delivery, phone number verification). This makes
           it super easy for us to iterate the service to best fit our users'
-          needs. Supported by Twillio.org, Call Home gets a discounted rate from
-          Twilio, which means that the overall calling costs are 40-55% than
-          standard calling rates, and are competitive with the lowest rates in
-          the market.
+          needs. 
+
+
+          Supported by Twillio.org, Call Home gets a discounted rate from Twilio, which means that the overall calling costs are 40-55% than standard calling rates, and are competitive with the lowest rates in the market.
+      - type: grid_item
+        title: How will Call Home sustain itself for the long-term?
+        content: Call Home started as a passion project between four friends who wanted
+          to do something for our migrant worker brothers during the COVID-19
+          period. We hope to build a community of recurring givers who will
+          continue to support our migrant workers on Call Home. Give.asia will
+          also provide development support to maintain the service and build new
+          features to help migrant workers stay connected to their loved ones
+          back home.
       - type: grid_item
         title: Which countries does Call Home support?
         content: Currently, we support migrant workers with a valid Singapore number.
@@ -32,15 +42,6 @@ sections:
         content: 98.5% of donations will go to fund the calling costs for migrant
           workers. The remaining 1.5% goes to Give.asia to cover credit card
           admin processing fees.
-      - type: grid_item
-        title: How will Call Home sustain itself for the long-term?
-        content: Call Home started as a passion project between four friends who wanted
-          to do something for our migrant worker brothers during the COVID-19
-          period. We hope to build a community of recurring givers who will
-          continue to support our migrant workers on Call Home. Give.asia will
-          also provide development support to maintain the service and build new
-          features to help migrant workers stay connected to their loved ones
-          back home.
       - type: grid_item
         title: Why donate to Call Home? Why not sponsor calling cards directly?
         content: >-

@@ -40,7 +40,7 @@ sections:
     background_image_position: center center
   - content: <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSfQ4U9SkiieDo_5BKdUt9HafDaNjpRzv3RZ--hdk4aEwIclDw/viewform?embedded=true"
-      width="770" height="900" frameborder="0" marginheight="0"
+      width="770" height="890" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
 template: advanced
 ---

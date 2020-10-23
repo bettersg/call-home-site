@@ -2,7 +2,7 @@
 title: Style Guide
 template: page
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQ4U9SkiieDo_5BKdUt9HafDaNjpRzv3RZ--hdk4aEwIclDw/viewform?embedded=true" width="640" height="1151" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQ4U9SkiieDo_5BKdUt9HafDaNjpRzv3RZ--hdk4aEwIclDw/viewform?embedded=true" width="770" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 

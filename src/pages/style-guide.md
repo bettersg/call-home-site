@@ -2,14 +2,22 @@
 title: Style Guide
 template: page
 ---
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQ4U9SkiieDo_5BKdUt9HafDaNjpRzv3RZ--hdk4aEwIclDw/viewform?embedded=true" width="640" height="1151" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
 
 # This is an H1
+
 ## This is an H2
+
 ### This is an H3
+
 #### This is an H4
+
 ##### This is an H5
+
 ###### This is an H6
 
 ## Quoting
@@ -28,13 +36,13 @@ Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum ma
 
 ## Unordered and Ordered Lists
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+* Donec non tortor in arcu mollis feugiat
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+* Donec id eros eget quam aliquam gravida
+* Vivamus convallis urna id felis
+* Nulla porta tempus sapien
 
-***
+- - -
 
 1. Donec non tortor in arcu mollis feugiat
 2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -55,11 +63,11 @@ for (let i = 0; i < sequence.length; i++) {
 
 ## Inline Elements
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Emphasis, aka italics, with *asterisks* or *underscores*.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with **asterisks and _underscores_**.
+Combined emphasis with **asterisks and *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 

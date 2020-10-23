@@ -23,55 +23,20 @@ sections:
     padding_bottom: medium
     type: hero_section
     background_image_position: center center
-  - form_position: bottom
-    form_layout: stacked
+  - media_position: top
+    align: left
     padding_top: medium
-    align_vert: top
-    form_width: fifty
-    enable_card: false
-    submit_label: Submit
+    media_width: fifty
     background_image_repeat: no-repeat
     has_border: false
     background_color: none
-    form_fields:
-      - is_required: true
-        type: form_field
-        input_type: text
-        name: name
-        label: Your name
-        default_value: e.g. Abdul
-      - is_required: true
-        type: form_field
-        input_type: tel
-        name: mobile
-        label: Your mobile number
-        default_value: "91234567"
-      - is_required: true
-        type: form_field
-        input_type: select
-        name: country
-        label: Which country are you from?
-        options:
-          - Bangladesh
-          - Myanmar
-          - Philippines
-          - India
-          - China
-          - Malaysia
-          - Others
-        default_value: ""
-      - is_required: true
-        type: form_field
-        input_type: number
-        name: years
-        label: How many years have you been in Singapore?
-        default_value: ""
     background_image_size: cover
-    form_id: waitlist
+    content: <iframe
+      src="https://docs.google.com/forms/d/e/1FAIpQLSfQ4U9SkiieDo_5BKdUt9HafDaNjpRzv3RZ--hdk4aEwIclDw/viewform?embedded=true"
+      width="770" height="880" frameborder="0" marginheight="0"
+      marginwidth="0">Loading…</iframe>
     padding_bottom: medium
-    type: form_section
-    title_align: left
+    type: hero_section
     background_image_position: center center
-    content_align: left
 template: advanced
 ---

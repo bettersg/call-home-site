@@ -2,10 +2,6 @@
 title: Style Guide
 template: page
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQ4U9SkiieDo_5BKdUt9HafDaNjpRzv3RZ--hdk4aEwIclDw/viewform?embedded=true" width="770" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-
-
 This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
 
 # This is an H1

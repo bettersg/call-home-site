@@ -36,11 +36,11 @@ sections:
     actions_position: right
     background_image_repeat: no-repeat
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_size: cover
     title: Give the gift of connection
-    content: 🎄 This holiday season, give the gift of connection by [donating to
-      Call Home](https://forms.gle/BNgvfZgixHgrpFfw7) on behalf of a friend. 🎁
+    content: This holiday season, give the gift of connection by [donating to Call
+      Home](https://forms.gle/BNgvfZgixHgrpFfw7) on behalf of a friend.
     padding_bottom: medium
     type: cta_section
     actions:
@@ -51,7 +51,7 @@ sections:
         type: action
         url: https://forms.gle/BNgvfZgixHgrpFfw7
         icon: arrow-right
-        label: Give now
+        label: Give now 🎁
     background_image_position: center center
   - align: center
     padding_top: none

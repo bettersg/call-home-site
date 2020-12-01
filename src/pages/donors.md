@@ -39,8 +39,9 @@ sections:
     background_color: primary
     background_image_size: cover
     title: Give the gift of connection
-    content: This holiday season, give the gift of connection by [donating to Call
-      Home](https://forms.gle/BNgvfZgixHgrpFfw7) on behalf of a friend.
+    content: This holiday season, give the gift of connection by <a
+      href="https://bit.ly/callhomexmas" target="_blank" rel="noopener">donating
+      to Call Home on behalf of a friend.
     padding_bottom: medium
     type: cta_section
     actions:
@@ -49,7 +50,7 @@ sections:
         icon_position: null
         new_window: true
         type: action
-        url: https://forms.gle/BNgvfZgixHgrpFfw7
+        url: https://bit.ly/callhomexmas
         icon: arrow-right
         label: Give now 🎁
     background_image_position: center center

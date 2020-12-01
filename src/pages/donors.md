@@ -29,11 +29,11 @@ sections:
         url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
-  - actions_width: fifty
+  - actions_width: fourty
     align: center
     padding_top: medium
     background_image: /images/rectangle-41.png
-    actions_position: bottom
+    actions_position: right
     background_image_repeat: no-repeat
     has_border: false
     background_color: none

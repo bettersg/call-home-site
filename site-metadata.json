@@ -60,6 +60,16 @@
         "icon": "facebook",
         "icon_position": "center",
         "new_window": true
+      },
+      {
+        "style": "link",
+        "has_icon": true,
+        "icon_position": "center",
+        "new_window": true,
+        "type": "action",
+        "label": "Instagram",
+        "url": "https://instagram.com/callhomesg",
+        "icon": "instagram"
       }
     ],
     "logo": "/images/footer_logo.png",

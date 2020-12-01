@@ -31,7 +31,7 @@ sections:
     background_image_position: center center
   - actions_width: fifty
     align: left
-    padding_top: medium
+    padding_top: small
     background_image: /images/rectangle-41.png
     actions_position: right
     background_image_repeat: no-repeat
@@ -41,7 +41,7 @@ sections:
     title: Give the gift of connection
     content: This holiday season, give the gift of connection by [donating to Call
       Home](https://forms.gle/BNgvfZgixHgrpFfw7) on behalf of a friend.
-    padding_bottom: medium
+    padding_bottom: small
     type: cta_section
     actions:
       - style: primary

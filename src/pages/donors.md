@@ -41,7 +41,7 @@ sections:
     title: Give the gift of connection
     content: This holiday season, give the gift of connection by [donating to Call
       Home](https://forms.gle/BNgvfZgixHgrpFfw7) on behalf of a friend.
-    padding_bottom: small
+    padding_bottom: medium
     type: cta_section
     actions:
       - style: primary

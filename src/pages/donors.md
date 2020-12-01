@@ -46,7 +46,7 @@ sections:
     actions:
       - style: link
         has_icon: true
-        icon_position: center
+        icon_position: right
         new_window: true
         type: action
         url: https://forms.gle/BNgvfZgixHgrpFfw7

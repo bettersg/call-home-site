@@ -257,7 +257,7 @@ sections:
     actions_position: right
     background_image_repeat: no-repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     title: Give the gift of connection
     content: This holiday season, give the gift of connection by <a

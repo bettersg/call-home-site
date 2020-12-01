@@ -29,6 +29,30 @@ sections:
         url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
+  - actions_width: fifty
+    align: center
+    padding_top: medium
+    background_image: /images/rectangle-41.png
+    actions_position: bottom
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: none
+    background_image_size: cover
+    title: Give the gift of connection
+    content: 🎄 This holiday season, give the gift of connection by [donating to
+      Call Home](https://forms.gle/BNgvfZgixHgrpFfw7) on behalf of a friend. 🎁
+    padding_bottom: medium
+    type: cta_section
+    actions:
+      - style: link
+        has_icon: true
+        icon_position: center
+        new_window: true
+        type: action
+        url: https://forms.gle/BNgvfZgixHgrpFfw7
+        icon: arrow-right
+        label: Give now
+    background_image_position: center center
   - align: center
     padding_top: none
     feature_padding_vert: medium

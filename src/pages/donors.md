@@ -32,7 +32,7 @@ sections:
   - actions_width: fifty
     align: left
     padding_top: medium
-    background_image: /images/rectangle-41.png
+    background_image: ""
     actions_position: right
     background_image_repeat: no-repeat
     has_border: false

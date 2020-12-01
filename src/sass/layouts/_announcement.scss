@@ -2,8 +2,9 @@
  * Announcement
  */
 .announcement-bar {
-	background: $color-anncmnt-bg;
+	background: #29cf7f /*$color-anncmnt-bg*/;
 	position: relative;
+	border-bottom: 3px solid #ff6697;
 }
 
 .announcement-bar__copy {

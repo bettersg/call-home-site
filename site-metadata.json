@@ -106,6 +106,15 @@
         "style": "link",
         "has_icon": false,
         "icon_position": null,
+        "new_window": true,
+        "type": "action",
+        "label": "Instagram",
+        "url": "https://instagram.com/callhomesg"
+      },
+      {
+        "style": "link",
+        "has_icon": false,
+        "icon_position": null,
         "new_window": false,
         "type": "action",
         "label": "Contact",

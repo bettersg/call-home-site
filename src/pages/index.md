@@ -250,5 +250,30 @@ sections:
     grid_gap_horiz: medium
     type: grid_section
     background_image_position: null
+  - actions_width: fourty
+    align: left
+    padding_top: medium
+    background_image: /images/rectangle-41.png
+    actions_position: right
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: none
+    background_image_size: cover
+    title: Give the gift of connection
+    content: This holiday season, give the gift of connection by <a
+      href="https://bit.ly/callhomexmas" target="_blank" rel="noopener">donating
+      to Call Home</a> on behalf of a friend.
+    padding_bottom: medium
+    type: cta_section
+    actions:
+      - style: primary
+        has_icon: true
+        icon_position: null
+        new_window: true
+        type: action
+        label: Give now 🎁
+        url: https://bit.ly/callhomexmas
+        icon: arrow-right
+    background_image_position: center center
 template: advanced
 ---

@@ -222,6 +222,94 @@ sections:
     grid_gap_horiz: large
     type: grid_section
     background_image_position: null
+  - align: center
+    padding_top: medium
+    grid_items:
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        subtitle: Local team using their Internet call service to connect workers to
+          loved ones.
+        title: App helps connect foreign workers with their families
+        content: >-
+          > They joined a hackathon earlier this year and focused on making an
+          app to connect the elderly isolated during the pandemic.
+
+          >
+
+          > But the team realised that the bigger need was connecting migrant workers here to their loved ones back home. So they switched focus for their Internet call service, called Call Home, to the workers instead.
+
+
+          <a href="https://www.tnp.sg/news/singapore/app-helps-connect-foreign-workers-their-families" target="_blank" rel="noopener">The Newpaper</a>, 5 Oct 2020
+        type: grid_item
+        title_align: left
+        content_align: left
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        subtitle: Connecting with family back home is expensive for migrant workers, so
+          four young Singaporeans build an app to let them call home free of
+          charge
+        title: "These four friends have a dream: To help migrant workers call home for
+          free"
+        content: >-
+          > It’s hard to imagine life without our mobile phones. It’s often the
+          first thing we look at when we wake up to check on the news or to see
+          if we’ve had any missed calls or messages.
+
+          >
+
+          > Our phones became even more critical when Covid-19 struck and Singapore went into the circuit breaker. They provided us with the virtual connections we needed to get through the tough times then.
+
+
+
+
+          <a href="https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/" target="_blank" rel="noopener">The Pride</a>, 3 Dec 2020
+        type: grid_item
+        title_align: left
+        content_align: left
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        subtitle: "Call Home is all about connectivity — for good! Support their
+          Christmas campaign 2020 so migrant workers can call their loved ones
+          back home during this holiday season. "
+        title: Call Home Christmas Campaign Bridges Connectivity Gap For Migrant Workers
+        content: >-
+          > Started by 4 strangers who met through better.sg, a local
+          organization that helps volunteer groups like ourselves to build tech
+          products for social good, Call Home is on mission to improve
+          connectivity for the migrant workers population in Singapore.
+
+
+
+
+          <a href="https://changemakr.asia/call-home-christmas-campaign-aims-to-bridge-connectivity-gap-for-migrant-workers-in-singapore/" target="_blank" rel="noopener">The Pride</a>, 17 Dec 2020
+        type: grid_item
+        title_align: left
+        content_align: left
+    enable_cards: true
+    grid_cols: three
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: secondary
+    grid_gap_vert: large
+    background_image_size: cover
+    subtitle: Mentions elsewhere on the internet
+    title: As featured on
+    padding_bottom: medium
+    grid_gap_horiz: large
+    type: grid_section
+    background_image_position: center center
   - actions_width: fourty
     align: left
     padding_top: medium

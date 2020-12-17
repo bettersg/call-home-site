@@ -307,7 +307,7 @@ sections:
     background_color: secondary
     grid_gap_vert: large
     background_image_size: cover
-    subtitle: Press mentions elsewhere on the internet
+    subtitle: Press mentions
     title: As featured on
     padding_bottom: medium
     grid_gap_horiz: large

@@ -245,6 +245,7 @@ sections:
 
           \- <a href="https://www.tnp.sg/news/singapore/app-helps-connect-foreign-workers-their-families" target="_blank" rel="noopener">The Newpaper</a>, 5 Oct 2020
         type: grid_item
+        image: /images/np_20201005_dscall05_6009371.jpg
         title_align: left
         content_align: left
       - image_align: left
@@ -272,6 +273,7 @@ sections:
 
           \- <a href="https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/" target="_blank" rel="noopener">The Pride</a>, 3 Dec 2020
         type: grid_item
+        image: /images/call-home-work-1-760x427.jpg
         title_align: left
         content_align: left
       - image_align: left
@@ -293,8 +295,9 @@ sections:
 
 
 
-          \- <a href="https://changemakr.asia/call-home-christmas-campaign-aims-to-bridge-connectivity-gap-for-migrant-workers-in-singapore/" target="_blank" rel="noopener">The Pride</a>, 17 Dec 2020
+          \- <a href="https://changemakr.asia/call-home-christmas-campaign-aims-to-bridge-connectivity-gap-for-migrant-workers-in-singapore/" target="_blank" rel="noopener">Changemakr.asia</a>, 17 Dec 2020
         type: grid_item
+        image: /images/callhome-campaign-featured-articles-image-template-1600x900pxl-2.png
         title_align: left
         content_align: left
     enable_cards: true
@@ -304,7 +307,7 @@ sections:
     background_color: secondary
     grid_gap_vert: large
     background_image_size: cover
-    subtitle: Mentions elsewhere on the internet
+    subtitle: Press mentions elsewhere on the internet
     title: As featured on
     padding_bottom: medium
     grid_gap_horiz: large

@@ -243,7 +243,7 @@ sections:
           > But the team realised that the bigger need was connecting migrant workers here to their loved ones back home. So they switched focus for their Internet call service, called Call Home, to the workers instead.
 
 
-          <a href="https://www.tnp.sg/news/singapore/app-helps-connect-foreign-workers-their-families" target="_blank" rel="noopener">The Newpaper</a>, 5 Oct 2020
+          \- <a href="https://www.tnp.sg/news/singapore/app-helps-connect-foreign-workers-their-families" target="_blank" rel="noopener">The Newpaper</a>, 5 Oct 2020
         type: grid_item
         title_align: left
         content_align: left
@@ -270,7 +270,7 @@ sections:
 
 
 
-          <a href="https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/" target="_blank" rel="noopener">The Pride</a>, 3 Dec 2020
+          \- <a href="https://pride.kindness.sg/four-friends-help-migrant-workers-call-home-for-free/" target="_blank" rel="noopener">The Pride</a>, 3 Dec 2020
         type: grid_item
         title_align: left
         content_align: left
@@ -293,7 +293,7 @@ sections:
 
 
 
-          <a href="https://changemakr.asia/call-home-christmas-campaign-aims-to-bridge-connectivity-gap-for-migrant-workers-in-singapore/" target="_blank" rel="noopener">The Pride</a>, 17 Dec 2020
+          \- <a href="https://changemakr.asia/call-home-christmas-campaign-aims-to-bridge-connectivity-gap-for-migrant-workers-in-singapore/" target="_blank" rel="noopener">The Pride</a>, 17 Dec 2020
         type: grid_item
         title_align: left
         content_align: left

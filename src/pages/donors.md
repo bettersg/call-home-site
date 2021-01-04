@@ -359,12 +359,13 @@ sections:
           to help migrant workers get access to Call Home:
           [CMSC](https://www.sgmigrant.com/), [TWC2](https://twc2.org.sg/) and
           [HOME](https://www.home.org.sg/). We are very grateful for [Majurity
-          Trust](https://www.majurity.sg/) for seed funding, [Temasek
+          Trust](https://www.majurity.sg/) for seed funding, [Oscar@SG
+          Fund](https://www.temasektrust.org.sg/Oscar/) from [Temasek
           Trust](https://www.temasektrust.org.sg/Oscar) for grant matching, and
           [better.sg](https://better.sg/), [Sweet Jam
           Sites](https://sweetjamsites.com/covid-19/), and
           [Give.asia](https://give.asia/) for additional support."
-        image: /images/supporters-1-.png
+        image: /images/robiul-2-.png
     background_image_position: null
 template: advanced
 ---

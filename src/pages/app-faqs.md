@@ -185,12 +185,13 @@ sections:
     type: cta_section
     actions:
       - style: secondary
-        has_icon: false
+        has_icon: true
         icon_position: right
         new_window: false
         type: action
         label: Contact us
         url: https://www.facebook.com/callhomesg
+        icon: facebook
     background_image_position: center center
 template: advanced
 ---

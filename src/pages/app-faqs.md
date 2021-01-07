@@ -3,12 +3,12 @@ title: App FAQs
 excerpt: test
 sections:
   - media_position: top
-    align: left
+    align: center
     padding_top: medium
     media_width: fifty
     background_image_repeat: no-repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     subtitle: Have a problem? You're in the right place.
     title: App FAQs

@@ -186,7 +186,7 @@ sections:
     actions:
       - style: secondary
         has_icon: true
-        icon_position: right
+        icon_position: left
         new_window: false
         type: action
         label: Contact us

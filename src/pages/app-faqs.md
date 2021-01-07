@@ -189,8 +189,8 @@ sections:
         icon_position: left
         new_window: false
         type: action
-        label: Contact us
-        url: https://www.facebook.com/callhomesg
+        label: Chat with us on Facebook
+        url: m.me/callhomesg
         icon: facebook
     background_image_position: center center
 template: advanced

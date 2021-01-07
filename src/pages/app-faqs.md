@@ -172,5 +172,25 @@ sections:
     grid_gap_horiz: small
     type: grid_section
     background_image_position: center center
+  - actions_width: fourty
+    align: left
+    padding_top: medium
+    actions_position: bottom
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: secondary
+    background_image_size: cover
+    title: Still can't find anything?
+    padding_bottom: medium
+    type: cta_section
+    actions:
+      - style: secondary
+        has_icon: false
+        icon_position: right
+        new_window: false
+        type: action
+        label: Contact us
+        url: https://www.facebook.com/callhomesg
+    background_image_position: center center
 template: advanced
 ---

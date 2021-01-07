@@ -88,7 +88,7 @@ sections:
     enable_cards: true
     grid_cols: two
     background_image_repeat: no-repeat
-    has_border: false
+    has_border: true
     background_color: none
     grid_gap_vert: small
     background_image_size: cover
@@ -131,8 +131,8 @@ sections:
         type: grid_item
         title_align: left
         content_align: left
-    enable_cards: false
-    grid_cols: three
+    enable_cards: true
+    grid_cols: two
     background_image_repeat: no-repeat
     has_border: false
     background_color: none

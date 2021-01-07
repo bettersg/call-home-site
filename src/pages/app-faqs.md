@@ -1,5 +1,6 @@
 ---
 title: App FAQs
+excerpt: test
 sections:
   - align: center
     padding_top: medium

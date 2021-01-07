@@ -8,7 +8,7 @@ sections:
     media_width: fifty
     background_image_repeat: no-repeat
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_size: cover
     subtitle: Have a problem? You're in the right place.
     title: App FAQs
@@ -61,8 +61,27 @@ sections:
         actions_width: auto
         image_has_padding: false
         image_position: top
-        title: "My call drops after <2 minutes of calling! What should I do? "
+        title: My call drops after <2 minutes of calling.
         content: Try calling again in 15 minutes.
+        type: grid_item
+        title_align: left
+        content_align: left
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        title: I have no more minutes left!
+        content: >-
+          Wait till the next reset day and you will be able to get more minutes
+          again! 
+
+
+          You can track the number of days left and the number of minutes that will be added on your home screen.
+
+
+          ![](/images/group-54.png)
         type: grid_item
         title_align: left
         content_align: left
@@ -75,6 +94,51 @@ sections:
     background_image_size: cover
     subtitle: ""
     title: I can't call!
+    padding_bottom: medium
+    grid_gap_horiz: small
+    type: grid_section
+    background_image_position: center center
+  - align: center
+    padding_top: medium
+    grid_items:
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        title: "I forgot my Facebook or Google password. "
+        content: >-
+          Try resetting your Facebook/Google password and log in with
+          Facebook/Google again. 
+
+
+          [Facebook reset password instructions](https://www.facebook.com/help/213395615347144) 
+
+
+          [Google reset password instructions](https://support.google.com/accounts/answer/41078?co=GENIE.Platform%3DDesktop&hl=en)
+        type: grid_item
+        title_align: left
+        content_align: left
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        title: I used Call Home before, but I forgot if I used Facebook or Google.
+        content: \[Glen, what's a good solution here?]
+        type: grid_item
+        title_align: left
+        content_align: left
+    enable_cards: false
+    grid_cols: three
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: none
+    grid_gap_vert: small
+    background_image_size: cover
+    title: I can't log in!
     padding_bottom: medium
     grid_gap_horiz: small
     type: grid_section

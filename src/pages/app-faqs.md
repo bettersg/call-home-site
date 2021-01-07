@@ -25,8 +25,7 @@ sections:
         image_has_padding: false
         image_position: top
         subtitle: ""
-        title: I can't call! It says "This app does not have permissions to use your
-          microphone."
+        title: It says "This app does not have permissions to use your microphone."
         content: Turn on your microphone permissions on your Chrome browser by following
           the instructions
           [here](https://support.google.com/chrome/answer/2693767?co=GENIE.Platform%3DAndroid&hl=en&oco=1).
@@ -39,7 +38,7 @@ sections:
         actions_width: auto
         image_has_padding: false
         image_position: top
-        title: I can't call! It says "Network error".
+        title: It says "Network error".
         content: Refresh your app and try again.
         type: grid_item
         title_align: left
@@ -50,7 +49,7 @@ sections:
         actions_width: auto
         image_has_padding: false
         image_position: top
-        title: I can't call! I am using the Xiaomi, Redmi browser on Android.
+        title: I am using the Xiaomi, Redmi browser on Android.
         content: For Android users, use Chrome browser to load app.callhome.sg. For iOS
           users, use Safari browser to load app.callhome.sg.
         type: grid_item
@@ -74,7 +73,7 @@ sections:
     background_color: none
     grid_gap_vert: small
     background_image_size: cover
-    subtitle: "Here's how you can fix it. "
+    subtitle: ""
     title: I can't call!
     padding_bottom: medium
     grid_gap_horiz: small

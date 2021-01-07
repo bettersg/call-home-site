@@ -173,14 +173,14 @@ sections:
     type: grid_section
     background_image_position: center center
   - actions_width: fourty
-    align: left
+    align: center
     padding_top: medium
     actions_position: bottom
     background_image_repeat: no-repeat
     has_border: false
     background_color: secondary
     background_image_size: cover
-    title: Still can't find anything?
+    title: Still can't find what you need?
     padding_bottom: medium
     type: cta_section
     actions:

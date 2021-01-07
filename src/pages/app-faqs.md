@@ -1,5 +1,5 @@
 ---
-title: App FAQ
+title: App FAQs
 sections:
   - align: center
     padding_top: medium
@@ -53,7 +53,7 @@ sections:
         type: grid_item
         title_align: left
         content_align: left
-    enable_cards: false
+    enable_cards: true
     grid_cols: two
     background_image_repeat: no-repeat
     has_border: false

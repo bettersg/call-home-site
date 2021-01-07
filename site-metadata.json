@@ -9,7 +9,7 @@
     "anncmnt_id": "new-features",
     "logo": "/images/header-logo.png",
     "anncmnt_content": "🎄 This holiday season, give the gift of connection by <a href=\"https://bit.ly/callhomexmas\" target=\"_blank\" rel=\"noopener\">donating to Call Home</a> on behalf of a friend. 🎁\n\n<!-- If you like to support this project, please consider donating at our \\\\\\*\\\\\\*\\\\\\[campaign page](https://give.asia/call-home-sg)\\\\\\*\\\\\\*. -->",
-    "has_anncmnt": true,
+    "has_anncmnt": false,
     "secondary_nav_links": [
       {
         "style": "link",

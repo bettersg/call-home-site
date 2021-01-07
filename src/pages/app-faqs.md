@@ -143,5 +143,34 @@ sections:
     grid_gap_horiz: small
     type: grid_section
     background_image_position: center center
+  - align: center
+    padding_top: medium
+    grid_items:
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        title: How do I add Call Home to my Home Screen?
+        content: Follow the instructions
+          [here](https://www.howtogeek.com/196087/how-to-add-websites-to-the-home-screen-on-any-smartphone-or-tablet/).
+          Once you add to Home Screen, you can immediately go to Call Home like
+          any other app.
+        type: grid_item
+        title_align: left
+        content_align: left
+    enable_cards: true
+    grid_cols: two
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: none
+    grid_gap_vert: small
+    background_image_size: cover
+    title: Others
+    padding_bottom: medium
+    grid_gap_horiz: small
+    type: grid_section
+    background_image_position: center center
 template: advanced
 ---

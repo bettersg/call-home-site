@@ -1,5 +1,5 @@
 ---
-title: App FAQs
+title: App FAQ
 sections:
   - align: center
     padding_top: medium

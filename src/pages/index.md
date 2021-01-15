@@ -253,16 +253,16 @@ sections:
   - actions_width: fourty
     align: left
     padding_top: medium
-    background_image: /images/rectangle-41.png
+    background_image: ""
     actions_position: right
     background_image_repeat: no-repeat
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_size: cover
     title: Give the gift of connection
-    content: This holiday season, give the gift of connection by <a
-      href="https://bit.ly/callhomexmas" target="_blank" rel="noopener">donating
-      to Call Home</a> on behalf of a friend.
+    content: If you like to support this project, please consider donating at our <a
+      href="https://give.asia/call-home-sg" target="_blank"
+      rel="noopener">campaign page</a>.
     padding_bottom: medium
     type: cta_section
     actions:
@@ -271,8 +271,8 @@ sections:
         icon_position: null
         new_window: true
         type: action
-        label: Give now 🎁
-        url: https://bit.ly/callhomexmas
+        label: Give now
+        url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
 template: advanced

@@ -29,31 +29,6 @@ sections:
         url: https://give.asia/call-home-sg
         icon: arrow-right
     background_image_position: center center
-  - actions_width: fourty
-    align: left
-    padding_top: medium
-    background_image: ""
-    actions_position: right
-    background_image_repeat: no-repeat
-    has_border: false
-    background_color: secondary
-    background_image_size: cover
-    title: Give the gift of connection
-    content: If you like to support this project, please consider donating at our <a
-      href="https://give.asia/call-home-sg" target="_blank"
-      rel="noopener">campaign page</a>.
-    padding_bottom: medium
-    type: cta_section
-    actions:
-      - style: primary
-        has_icon: true
-        icon_position: null
-        new_window: true
-        type: action
-        url: https://give.asia/call-home-sg
-        icon: arrow-right
-        label: Give now
-    background_image_position: center center
   - align: center
     padding_top: none
     feature_padding_vert: medium

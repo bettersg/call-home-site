@@ -364,7 +364,7 @@ sections:
           [better.sg](https://better.sg/), [Sweet Jam
           Sites](https://sweetjamsites.com/covid-19/), and
           [Give.asia](https://give.asia/) for additional support."
-        image: /images/robiul-2-.png
+        image: /images/callhomesponsors-apr2021.png
     background_image_position: null
 template: advanced
 ---

@@ -39,7 +39,7 @@ sections:
     background_image_position: center center
   - actions_width: fourty
     align: left
-    padding_top: small
+    padding_top: medium
     background_image: /images/callhome-banner.png
     actions_position: right
     background_image_repeat: repeat

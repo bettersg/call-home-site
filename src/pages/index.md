@@ -37,6 +37,30 @@ sections:
         url: /join-our-waitlist
         icon: arrow-right
     background_image_position: center center
+  - actions_width: fourty
+    align: left
+    padding_top: small
+    background_image: /images/callhome-banner.png
+    actions_position: right
+    background_image_repeat: repeat
+    has_border: false
+    background_color: none
+    background_image_size: cover
+    title: Sponsor the gift of connection
+    content: If you like to sponsor this project as a corporate sponsor, please
+      consider get in touch with us at meera@better.sg or via the Contact page.
+    padding_bottom: small
+    type: cta_section
+    actions:
+      - style: primary
+        has_icon: true
+        icon_position: right
+        new_window: true
+        type: action
+        label: Get in touch
+        url: /contact
+        icon: arrow-right
+    background_image_position: center center
   - align: center
     padding_top: small
     feature_padding_vert: medium

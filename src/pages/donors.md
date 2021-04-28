@@ -354,16 +354,21 @@ sections:
         type: feature
         title: Thank you to our supporters
         subtitle: ""
-        content: "Call Home works with the following migrant worker groups in Singapore
+        content: >-
+          Call Home works with the following migrant worker groups in Singapore
           to help migrant workers get access to Call Home:
           [CMSC](https://www.sgmigrant.com/), [TWC2](https://twc2.org.sg/) and
           [HOME](https://www.home.org.sg/). We are very grateful for [Majurity
           Trust](https://www.majurity.sg/) for seed funding, [Oscar@SG
           Fund](https://www.temasektrust.org.sg/Oscar/) from [Temasek
-          Trust](https://www.temasektrust.org.sg/Oscar) for grant matching, and
+          Trust](https://www.temasektrust.org.sg/Oscar), and
+          [Facebook](https://www.facebook.com) for grant matching, and
           [better.sg](https://better.sg/), [Sweet Jam
           Sites](https://sweetjamsites.com/covid-19/), and
-          [Give.asia](https://give.asia/) for additional support."
+          [Give.asia](https://give.asia/) for additional support.
+
+
+          If you like to sponsor this project as a corporate sponsor, please get in touch with us at [meera@better.sg](mailto:meera@better.sg) or via the [Contact](/contact) page.
         image: /images/callhomesponsors-apr2021.png
     background_image_position: null
 template: advanced

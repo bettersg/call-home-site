@@ -74,10 +74,10 @@ sections:
         is_required: true
     form_id: contact-form
     content: >-
-      ### For donors
+      ### For donors & corporate sponsors
 
 
-      Questions about the app, or the campaign? Interested in corporate sponsorships? Email us or fill in the form here.
+      Interested in working with us? Keen to offer corporate sponsorships? Questions about the app, or the campaign? Email us or fill in the form here.
     padding_bottom: medium
     type: form_section
     content_align: left

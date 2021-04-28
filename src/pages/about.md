@@ -56,7 +56,7 @@ sections:
       💜 [Majurity Trust](https://www.majurity.sg/) for seed funding and sticking all the way through our pivots!
 
 
-      💜 [](https://better.sg/)[Temasek Trust](https://www.temasektrust.org.sg/Oscar)  for grant-matching and seed funding!
+      💜 [](https://better.sg/)[Temasek Trust](https://www.temasektrust.org.sg/Oscar), [Twilio](https://www.twilio.com/), [Facebook](https://www.facebook.com) for grant-matching and seed funding!
 
 
       💜 [better.sg](https://better.sg/) and [give.asia](https://give.asia/) for the invaluable advice and media opportunities!

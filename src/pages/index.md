@@ -44,18 +44,18 @@ sections:
     actions_position: right
     background_image_repeat: repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     title: Sponsor the gift of connection
-    content: If you like to sponsor this project as a corporate sponsor, please
-      consider get in touch with us at meera@better.sg or via the Contact page.
+    content: If you like to sponsor this project as a corporate sponsor, please get
+      in touch with us at meera@better.sg or via the Contact page.
     padding_bottom: small
     type: cta_section
     actions:
-      - style: primary
+      - style: secondary
         has_icon: true
         icon_position: right
-        new_window: true
+        new_window: false
         type: action
         label: Get in touch
         url: /contact

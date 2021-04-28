@@ -36,7 +36,7 @@ sections:
     actions_position: right
     background_image_repeat: repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     title: Sponsor the gift of connection
     content: If you like to sponsor this project as a corporate sponsor, please get

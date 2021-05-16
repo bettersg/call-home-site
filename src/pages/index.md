@@ -219,7 +219,7 @@ sections:
 
           এই সার্ভিসটি ব্যবহার করে আপনি যত ইচ্ছে কল করতে পারবেন৷
 
-          No. You can chat for as long as you wish.
+          Yes. Once you are enrolled, you get 200 minutes per month.
         type: grid_item
         title_align: null
         content_align: null

@@ -230,6 +230,28 @@ sections:
         actions_width: auto
         image_has_padding: false
         image_position: top
+        subtitle: Its Call Home app helps connect migrant workers with their families.
+        title: Better.SG wins Mobile - Telecommunications Award at SBR TEA
+        content: >-
+          > Recognising the contribution of a company’s innovative systems in
+          the field of mobile telecommunications, Singapore Business Review’s
+          judges have awarded the Mobile Award for Telecommunications to
+          Better.SG. This was for their Call Home app, a cost-effective 3G
+          solution that allows migrant workers to call their families’ landline
+          phones in their home country.
+
+
+          \- <a href="https://sbr.com.sg/co-written-partner/more-news/bettersg-wins-mobile-telecommunications-award-sbr-tea" target="_blank" rel="noopener">Singapore Business Review</a>, 27 Apr 2021
+        type: grid_item
+        image: /images/sbr-award.jpg
+        title_align: left
+        content_align: left
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
         subtitle: Local team using their Internet call service to connect workers to
           loved ones.
         title: App helps connect foreign workers with their families
@@ -300,7 +322,7 @@ sections:
         title_align: left
         content_align: left
     enable_cards: true
-    grid_cols: three
+    grid_cols: two
     background_image_repeat: no-repeat
     has_border: false
     background_color: secondary

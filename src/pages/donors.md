@@ -137,7 +137,7 @@ sections:
         align: left
         type: feature
         title: Give migrant workers the comfort of hearing a loved one’s voice
-        content: Just $12 a month gives 1 worker 400 minutes of high-quality talk-time
+        content: Just $10 a month gives 1 worker 200 minutes of high-quality talk-time
           with their parents, spouse, and children.
         image: /images/9-loved-ones-voice.svg
     background_image_position: null

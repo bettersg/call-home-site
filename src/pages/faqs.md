@@ -39,9 +39,9 @@ sections:
           are looking to support more countries if demand increases.
       - type: grid_item
         title: What will the funds be used for?
-        content: 98.5% of donations will go to fund the calling costs for migrant
-          workers. The remaining 1.5% goes to Give.asia to cover credit card
-          admin processing fees.
+        content: Over 90% of donations will go to fund the calling costs for migrant
+          workers. About 1.5% goes to Give.asia to cover credit card admin
+          processing fees.
       - type: grid_item
         title: Why donate to Call Home? Why not sponsor calling cards directly?
         content: >-
@@ -73,8 +73,8 @@ sections:
     background_color: primary
     background_image_size: null
     title: Give the comfort of hearing a loved one’s voice
-    content: Just $25 gives 1 migrant worker a month of high-quality talk-time with
-      their parents, spouse, and children.
+    content: Just $10 gives 1 migrant worker 200 minutes per month of high-quality
+      talk-time with their parents, spouse, and children.
     padding_bottom: medium
     type: cta_section
     actions:

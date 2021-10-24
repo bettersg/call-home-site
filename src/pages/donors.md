@@ -40,7 +40,7 @@ sections:
     background_image_size: cover
     title: Sponsor the gift of connection
     content: If you would like to connect with us as a corporate sponsor, please get
-      in touch via meera@better.sg or through the Contact page.
+      in touch through the Contact page.
     padding_bottom: small
     type: cta_section
     actions:

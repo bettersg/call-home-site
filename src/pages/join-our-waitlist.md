@@ -9,7 +9,7 @@ sections:
     has_border: false
     background_color: secondary
     background_image_size: cover
-    subtitle: No more waitlist
+    subtitle: Join our waitlist
     title: আমাদের ওয়েটিং লিস্টে যোগ দিন
     content: >-
       ~~আপনি যদি একজন বিদেশী কর্মী এবং এই অ্যাপটি ব্যবহার করতে চান, তাহলে এই
@@ -20,7 +20,7 @@ sections:
       ~~If you're a migrant worker and you're interested in using the app, fill in this form! We will let you know as soon as we open it up to more users.~~
 
 
-      Anyone can sign up now! Please sign up [here](https://app.callhome.sg/).
+      \[Update, Oct 2021:] There's no more waitlists, Anyone can sign up now! Please sign up [here](https://app.callhome.sg/).
     padding_bottom: medium
     type: hero_section
     background_image_position: center center

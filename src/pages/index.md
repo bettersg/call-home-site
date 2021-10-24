@@ -28,14 +28,6 @@ sections:
         icon: arrow-right
         icon_position: right
         new_window: true
-      - style: secondary
-        has_icon: true
-        icon_position: right
-        new_window: true
-        type: action
-        label: আমাদের ওয়েটিং লিস্টে যোগ দিন Join our waitlist
-        url: /join-our-waitlist
-        icon: arrow-right
     background_image_position: center center
   - actions_width: fourty
     align: left
@@ -48,7 +40,7 @@ sections:
     background_image_size: cover
     title: Sponsor the gift of connection
     content: If you would like to connect with us as a corporate sponsor, please get
-      in touch via meera@better.sg or through the Contact page.
+      in touch through the Contact page.
     padding_bottom: small
     type: cta_section
     actions:

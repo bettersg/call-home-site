@@ -61,8 +61,8 @@ sections:
         actions_width: auto
         image_has_padding: false
         image_position: top
-        title: My call drops after <2 minutes of calling.
-        content: Try calling again in 15 minutes.
+        title: My call drops after < 2 minutes of calling.
+        content: Make sure that you do not leave the web page or let your phone sleep. If that doesn't work, try calling again.
         type: grid_item
         title_align: left
         content_align: left
@@ -127,7 +127,10 @@ sections:
         image_has_padding: false
         image_position: top
         title: I used Call Home before, but I forgot if I used Facebook or Google.
-        content: \[Glen, what's a good solution here?]
+        content: >-
+          Try logging in with both accounts. If you register using an 
+          account that has an email address, we will automatically 
+          identify you by your email address.
         type: grid_item
         title_align: left
         content_align: left

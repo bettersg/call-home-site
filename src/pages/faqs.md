@@ -55,6 +55,33 @@ sections:
 
 
           The result: migrant workers cannot reach their families just when they need them the most. Call Home aims to fill that gap.
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        title: Why is the new monthly call limit 80 minutes?
+        content: >-
+          As of August 2022, Call Home has decided to reduce its monthly calling
+          limit for users from 200 minutes down to 80 minutes.
+
+
+          This decision was taken after much deliberation from the team, but we ultimately decided it was in the best interest of our users for a few reasons:\
+
+          \
+
+          1. As pandemic restrictions in Singapore have lifted, workers have been able to increasingly resume their regular social activities outside of their dorms.\
+
+          2. The Call Home team has come to recognize that there are a number of other pressing issues workers need support with, beyond calls home. These include easy access to professional mental health support, legal advice etc. Our team is working to expand access to these services as part of Call Home, and we would like to ensure we reserve sufficient funds for this effort.\
+
+          3. Reducing the monthly calling limit allows us to extend the app to more users who may need to use the app to make calls home in times of emergency for short periods of time.
+
+
+          Thank you all for your understanding. And if you have any questions, feel free to contact us on our instagram, @callhomesg. We look forward to updating you soon on what else you can do on Call Home!
+        type: grid_item
+        title_align: null
+        content_align: null
     enable_cards: true
     grid_cols: two
     has_border: false

@@ -140,6 +140,54 @@ sections:
   - align: null
     padding_top: medium
     grid_items:
+      - image_align: left
+        image_width: fifty
+        actions_align: left
+        actions_width: auto
+        image_has_padding: false
+        image_position: top
+        subtitle: Why is the new monthly call limit 80 minutes?
+        title: কেন এখন হোমে মাসিক কলিং সীমা 80 মিনিট?
+        content: >-
+          
+
+          - - -
+
+
+          আগস্ট 2022 পর্যন্ত, Call Home ব্যবহারকারীদের জন্য তার মাসিক কলিং সীমা 200 মিনিট থেকে কমিয়ে 80 মিনিট করার সিদ্ধান্ত নিয়েছে। এই সিদ্ধান্ত টিমের কাছ থেকে অনেক আলোচনার পরে নেওয়া হয়েছিল, কিন্তু আমরা শেষ পর্যন্ত সিদ্ধান্ত নিয়েছি যে কয়েকটি কারণে এটি আমাদের ব্যবহারকারীদের সর্বোত্তম স্বার্থে ছিল:
+
+
+          1. সিঙ্গাপুরে মহামারী সংক্রান্ত বিধিনিষেধ উঠে যাওয়ায়, কর্মীরা তাদের ডর্মের বাইরে তাদের নিয়মিত সামাজিক কার্যক্রম ক্রমবর্ধমানভাবে পুনরায় শুরু করতে সক্ষম হয়েছে। 
+
+
+          2. কল হোম টিম চিনতে পেরেছে যে বাড়িতে কল করার বাইরেও কর্মীদের সহায়তার প্রয়োজন এমন আরও বেশ কিছু চাপা সমস্যা রয়েছে৷ এর মধ্যে রয়েছে পেশাদার মানসিক স্বাস্থ্য সহায়তা, আইনি পরামর্শ ইত্যাদির সহজ অ্যাক্সেস। আমাদের দল কল হোমের অংশ হিসাবে এই পরিষেবাগুলিতে অ্যাক্সেস প্রসারিত করার জন্য কাজ করছে এবং আমরা এই প্রচেষ্টার জন্য পর্যাপ্ত তহবিল সংরক্ষণ করা নিশ্চিত করতে চাই। 
+
+
+          3. মাসিক কলিং সীমা হ্রাস করার ফলে আমরা অ্যাপটিকে আরও বেশি ব্যবহারকারীর কাছে প্রসারিত করতে পারি যাদের স্বল্প সময়ের জন্য জরুরি সময়ে বাড়িতে কল করার জন্য অ্যাপটি ব্যবহার করতে হতে পারে।
+
+
+          আপনার বোঝার জন্য আপনাকে ধন্যবাদ. এবং যদি আপনার কোন প্রশ্ন থাকে, আমাদের instagram, @callhomesg এ আমাদের সাথে নির্দ্বিধায় যোগাযোগ করুন। আমরা কল হোমে আপনি আর কি করতে পারেন সে সম্পর্কে শীঘ্রই আপনাকে আপডেট করার জন্য উন্মুখ!
+
+
+
+
+          As of August 2022, Call Home has decided to reduce its monthly calling limit for users from 200 minutes down to 80 minutes.
+
+
+          This decision was taken after much deliberation from the team, but we ultimately decided it was in the best interest of our users for a few reasons:
+
+
+          1. As pandemic restrictions in Singapore have lifted, workers have been able to increasingly resume their regular social activities outside of their dorms.
+
+          2. The Call Home team has come to recognize that there are a number of other pressing issues workers need support with, beyond calls home. These include easy access to professional mental health support, legal advice etc. Our team is working to expand access to these services as part of Call Home, and we would like to ensure we reserve sufficient funds for this effort.
+
+          3. Reducing the monthly calling limit allows us to extend the app to more users who may need to use the app to make calls home in times of emergency for short periods of time.
+
+
+          Thank you all for your understanding. And if you have any questions, feel free to contact us on our instagram, @callhomesg. We look forward to updating you soon on what else you can do on Call Home!
+        type: grid_item
+        title_align: left
+        content_align: left
       - image_align: null
         image_width: null
         actions_align: null
